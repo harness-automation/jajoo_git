@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_rm4IQ4
+    name: TestAccResourcePipeline_rm4IQ4_updated
     identifier: TestAccResourcePipeline_rm4IQ4   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_rm4IQ4
