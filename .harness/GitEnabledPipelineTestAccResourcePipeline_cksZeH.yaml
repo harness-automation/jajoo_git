@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_cksZeH
+    name: TestAccResourcePipeline_cksZeH_updated
     identifier: TestAccResourcePipeline_cksZeH   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_cksZeH
