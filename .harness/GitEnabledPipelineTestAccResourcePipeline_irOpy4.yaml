@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_irOpy4
+    name: TestAccResourcePipeline_irOpy4_updated
     identifier: TestAccResourcePipeline_irOpy4   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_irOpy4
