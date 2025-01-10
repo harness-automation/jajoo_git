@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_Cf4Knv"
+   name: "TestAccResourceTemplateProjectScope_Cf4Knv_updated"
    identifier: "TestAccResourceTemplateProjectScope_Cf4Knv"
    versionLabel: ab
    type: Pipeline
