@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_rgWTV3"
+   name: "TestAccResourceTemplateProjectScope_rgWTV3_updated"
    identifier: "TestAccResourceTemplateProjectScope_rgWTV3"
    versionLabel: ab
    type: Pipeline
