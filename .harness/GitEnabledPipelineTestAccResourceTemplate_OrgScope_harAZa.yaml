@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_harAZa"
+   name: "TestAccResourceTemplate_OrgScope_harAZa_updated"
    identifier: "TestAccResourceTemplate_OrgScope_harAZa"
    versionLabel: ab
    type: Pipeline
