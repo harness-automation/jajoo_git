@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_ZKpRfn
+    name: TestAccResourcePipeline_ZKpRfn_updated
     identifier: TestAccResourcePipeline_ZKpRfn   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_ZKpRfn
