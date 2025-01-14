@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_FIb_99"
+   name: "TestAccResourceTemplate_OrgScope_FIb_99_updated"
    identifier: "TestAccResourceTemplate_OrgScope_FIb_99"
    versionLabel: ab
    type: Pipeline
