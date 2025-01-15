@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_o_EqfL
+    name: TestAccResourcePipeline_o_EqfL_updated
     identifier: TestAccResourcePipeline_o_EqfL   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_o_EqfL
