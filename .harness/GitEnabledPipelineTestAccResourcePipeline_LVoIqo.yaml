@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_LVoIqo
+    name: TestAccResourcePipeline_LVoIqo_updated
     identifier: TestAccResourcePipeline_LVoIqo   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_LVoIqo
