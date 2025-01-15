@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_qsFEtH
+    name: TestAccResourcePipeline_qsFEtH_updated
     identifier: TestAccResourcePipeline_qsFEtH   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_qsFEtH
