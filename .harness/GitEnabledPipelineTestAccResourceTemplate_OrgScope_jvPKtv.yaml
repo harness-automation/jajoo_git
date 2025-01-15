@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_jvPKtv"
+   name: "TestAccResourceTemplate_OrgScope_jvPKtv_updated"
    identifier: "TestAccResourceTemplate_OrgScope_jvPKtv"
    versionLabel: ab
    type: Pipeline
