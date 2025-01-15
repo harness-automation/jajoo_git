@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_3myCDf
+    name: TestAccResourcePipeline_3myCDf_updated
     identifier: TestAccResourcePipeline_3myCDf   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_3myCDf
