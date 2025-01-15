@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_J_KTcg"
+   name: "TestAccResourceTemplateProjectScope_J_KTcg_updated"
    identifier: "TestAccResourceTemplateProjectScope_J_KTcg"
    versionLabel: ab
    type: Pipeline
