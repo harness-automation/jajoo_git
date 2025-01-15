@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_tdPDNU"
+   name: "TestAccResourceTemplateProjectScope_tdPDNU_updated"
    identifier: "TestAccResourceTemplateProjectScope_tdPDNU"
    versionLabel: ab
    type: Pipeline
