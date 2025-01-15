@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_LMdD_j"
+   name: "TestAccResourceTemplate_OrgScope_LMdD_j_updated"
    identifier: "TestAccResourceTemplate_OrgScope_LMdD_j"
    versionLabel: ab
    type: Pipeline
