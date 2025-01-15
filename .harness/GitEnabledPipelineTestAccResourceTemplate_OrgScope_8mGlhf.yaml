@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_8mGlhf"
+   name: "TestAccResourceTemplate_OrgScope_8mGlhf_updated"
    identifier: "TestAccResourceTemplate_OrgScope_8mGlhf"
    versionLabel: ab
    type: Pipeline
