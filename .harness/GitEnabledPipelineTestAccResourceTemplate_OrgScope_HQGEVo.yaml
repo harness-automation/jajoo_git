@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_HQGEVo"
+   name: "TestAccResourceTemplate_OrgScope_HQGEVo_updated"
    identifier: "TestAccResourceTemplate_OrgScope_HQGEVo"
    versionLabel: ab
    type: Pipeline
