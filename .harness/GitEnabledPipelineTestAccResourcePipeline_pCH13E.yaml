@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_pCH13E
+    name: TestAccResourcePipeline_pCH13E_updated
     identifier: TestAccResourcePipeline_pCH13E   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_pCH13E
