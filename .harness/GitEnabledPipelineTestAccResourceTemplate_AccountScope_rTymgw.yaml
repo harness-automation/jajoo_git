@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_rTymgw"
+   name: "TestAccResourceTemplate_AccountScope_rTymgw_updated"
    identifier: "TestAccResourceTemplate_AccountScope_rTymgw"
    versionLabel: ab
    type: Pipeline
