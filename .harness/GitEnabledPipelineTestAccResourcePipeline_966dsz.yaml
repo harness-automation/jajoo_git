@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_966dsz
+    name: TestAccResourcePipeline_966dsz_updated
     identifier: TestAccResourcePipeline_966dsz   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_966dsz
