@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_gBhpwK
+    name: TestAccResourcePipeline_gBhpwK_updated
     identifier: TestAccResourcePipeline_gBhpwK   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_gBhpwK
