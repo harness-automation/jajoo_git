@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_jPwgnb
+    name: TestAccResourcePipeline_jPwgnb_updated
     identifier: TestAccResourcePipeline_jPwgnb   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_jPwgnb
