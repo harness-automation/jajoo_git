@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_EksXrA
+    name: TestAccResourcePipeline_EksXrA_updated
     identifier: TestAccResourcePipeline_EksXrA   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_EksXrA
