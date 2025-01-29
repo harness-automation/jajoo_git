@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_VolMHr"
+   name: "TestAccResourceTemplateProjectScope_VolMHr_updated"
    identifier: "TestAccResourceTemplateProjectScope_VolMHr"
    versionLabel: ab
    type: Pipeline
