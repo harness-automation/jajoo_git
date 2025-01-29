@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_PizNyy
+    name: TestAccResourcePipeline_PizNyy_updated
     identifier: TestAccResourcePipeline_PizNyy   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_PizNyy
