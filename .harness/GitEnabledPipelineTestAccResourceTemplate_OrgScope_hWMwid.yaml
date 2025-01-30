@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_hWMwid"
+   name: "TestAccResourceTemplate_OrgScope_hWMwid_updated"
    identifier: "TestAccResourceTemplate_OrgScope_hWMwid"
    versionLabel: ab
    type: Pipeline
