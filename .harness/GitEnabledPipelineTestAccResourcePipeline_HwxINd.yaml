@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_HwxINd
+    name: TestAccResourcePipeline_HwxINd_updated
     identifier: TestAccResourcePipeline_HwxINd   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_HwxINd
