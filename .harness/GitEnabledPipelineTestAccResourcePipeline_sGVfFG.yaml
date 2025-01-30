@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_sGVfFG
+    name: TestAccResourcePipeline_sGVfFG_updated
     identifier: TestAccResourcePipeline_sGVfFG   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_sGVfFG
