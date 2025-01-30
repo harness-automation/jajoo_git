@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_17CTJM
+    name: TestAccResourcePipeline_17CTJM_updated
     identifier: TestAccResourcePipeline_17CTJM   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_17CTJM
