@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_SNiOln"
+   name: "TestAccResourceTemplateProjectScope_SNiOln_updated"
    identifier: "TestAccResourceTemplateProjectScope_SNiOln"
    versionLabel: ab
    type: Pipeline
