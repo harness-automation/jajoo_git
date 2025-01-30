@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_PBEobA
+    name: TestAccResourcePipeline_PBEobA_updated
     identifier: TestAccResourcePipeline_PBEobA   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_PBEobA
