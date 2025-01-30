@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_FH_akf"
+   name: "TestAccResourceTemplateProjectScope_FH_akf_updated"
    identifier: "TestAccResourceTemplateProjectScope_FH_akf"
    versionLabel: ab
    type: Pipeline
