@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_dwRjne
+    name: TestAccResourcePipeline_dwRjne_updated
     identifier: TestAccResourcePipeline_dwRjne   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_dwRjne
