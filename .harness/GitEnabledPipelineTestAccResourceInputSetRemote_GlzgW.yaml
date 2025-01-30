@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourceInputSetRemote
+    name: TestAccResourceInputSetRemote_updated
     identifier: TestAccResourceInputSetRemote_GlzgW
     allowStageExecutions: false
     projectIdentifier: TestAccResourceInputSetRemote_GlzgW
