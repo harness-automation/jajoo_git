@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_ZmoZX9
+    name: TestAccResourcePipeline_ZmoZX9_updated
     identifier: TestAccResourcePipeline_ZmoZX9   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_ZmoZX9
