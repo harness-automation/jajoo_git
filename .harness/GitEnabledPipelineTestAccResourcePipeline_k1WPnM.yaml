@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_k1WPnM
+    name: TestAccResourcePipeline_k1WPnM_updated
     identifier: TestAccResourcePipeline_k1WPnM   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_k1WPnM
