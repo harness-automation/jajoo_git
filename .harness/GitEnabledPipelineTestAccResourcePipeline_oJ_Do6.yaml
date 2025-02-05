@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_oJ_Do6
+    name: TestAccResourcePipeline_oJ_Do6_updated
     identifier: TestAccResourcePipeline_oJ_Do6   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_oJ_Do6
