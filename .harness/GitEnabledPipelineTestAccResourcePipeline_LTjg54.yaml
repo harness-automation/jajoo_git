@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_LTjg54
+    name: TestAccResourcePipeline_LTjg54_updated
     identifier: TestAccResourcePipeline_LTjg54   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_LTjg54
