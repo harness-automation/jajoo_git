@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_7YSPMA
+    name: TestAccResourcePipeline_7YSPMA_updated
     identifier: TestAccResourcePipeline_7YSPMA   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_7YSPMA
