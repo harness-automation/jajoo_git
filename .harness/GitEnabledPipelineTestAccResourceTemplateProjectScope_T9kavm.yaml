@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_T9kavm"
+   name: "TestAccResourceTemplateProjectScope_T9kavm_updated"
    identifier: "TestAccResourceTemplateProjectScope_T9kavm"
    versionLabel: ab
    type: Pipeline
