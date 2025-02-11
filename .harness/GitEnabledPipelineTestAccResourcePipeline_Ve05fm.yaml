@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_Ve05fm
+    name: TestAccResourcePipeline_Ve05fm_updated
     identifier: TestAccResourcePipeline_Ve05fm   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_Ve05fm
