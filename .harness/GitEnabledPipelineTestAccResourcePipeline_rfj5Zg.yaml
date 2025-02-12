@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_rfj5Zg
+    name: TestAccResourcePipeline_rfj5Zg_updated
     identifier: TestAccResourcePipeline_rfj5Zg   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_rfj5Zg
