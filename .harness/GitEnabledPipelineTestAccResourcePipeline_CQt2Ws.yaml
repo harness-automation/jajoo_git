@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_CQt2Ws
+    name: TestAccResourcePipeline_CQt2Ws_updated
     identifier: TestAccResourcePipeline_CQt2Ws   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_CQt2Ws
