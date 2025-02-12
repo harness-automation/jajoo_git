@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_EMGt7o
+    name: TestAccResourcePipeline_EMGt7o_updated
     identifier: TestAccResourcePipeline_EMGt7o   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_EMGt7o
