@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_MSCWHC
+    name: TestAccResourcePipeline_MSCWHC_updated
     identifier: TestAccResourcePipeline_MSCWHC   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_MSCWHC
