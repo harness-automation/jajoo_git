@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_sSgdKm"
+   name: "TestAccResourceTemplate_AccountScope_sSgdKm_updated"
    identifier: "TestAccResourceTemplate_AccountScope_sSgdKm"
    versionLabel: ab
    type: Pipeline
