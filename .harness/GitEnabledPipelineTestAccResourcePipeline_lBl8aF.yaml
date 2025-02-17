@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_lBl8aF
+    name: TestAccResourcePipeline_lBl8aF_updated
     identifier: TestAccResourcePipeline_lBl8aF   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_lBl8aF
