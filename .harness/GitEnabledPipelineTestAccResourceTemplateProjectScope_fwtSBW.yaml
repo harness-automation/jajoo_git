@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_fwtSBW"
+   name: "TestAccResourceTemplateProjectScope_fwtSBW_updated"
    identifier: "TestAccResourceTemplateProjectScope_fwtSBW"
    versionLabel: ab
    type: Pipeline
