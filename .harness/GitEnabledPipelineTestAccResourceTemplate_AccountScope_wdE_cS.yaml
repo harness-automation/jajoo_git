@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_wdE_cS"
+   name: "TestAccResourceTemplate_AccountScope_wdE_cS_updated"
    identifier: "TestAccResourceTemplate_AccountScope_wdE_cS"
    versionLabel: ab
    type: Pipeline
