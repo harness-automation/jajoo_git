@@ -1,0 +1,13 @@
+inputSet:
+  identifier: "TestAccResourceInputSetRemote_siDup"
+  name: "TestAccResourceInputSetRemote"
+  tags:
+    foo: "bar"
+  orgIdentifier: "TestAccResourceInputSetRemote_siDup"
+  projectIdentifier: "TestAccResourceInputSetRemote_siDup"
+  pipeline:
+    identifier: "TestAccResourceInputSetRemote_siDup"
+    variables:
+    - name: "key"
+      type: "String"
+      value: "value"
