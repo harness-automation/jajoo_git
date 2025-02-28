@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_anFe4L
+    name: TestAccResourcePipeline_anFe4L_updated
     identifier: TestAccResourcePipeline_anFe4L   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_anFe4L
