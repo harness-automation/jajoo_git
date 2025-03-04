@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_VSZ660
+    name: TestAccResourcePipeline_VSZ660_updated
     identifier: TestAccResourcePipeline_VSZ660   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_VSZ660
