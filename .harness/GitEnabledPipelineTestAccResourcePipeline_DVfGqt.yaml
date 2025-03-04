@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_DVfGqt
+    name: TestAccResourcePipeline_DVfGqt_updated
     identifier: TestAccResourcePipeline_DVfGqt   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_DVfGqt
