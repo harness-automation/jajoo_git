@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_nTLS_A"
+   name: "TestAccResourceTemplateProjectScope_nTLS_A_updated"
    identifier: "TestAccResourceTemplateProjectScope_nTLS_A"
    versionLabel: ab
    type: Pipeline
