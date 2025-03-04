@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_HR50f5
+    name: TestAccResourcePipeline_HR50f5_updated
     identifier: TestAccResourcePipeline_HR50f5   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_HR50f5
