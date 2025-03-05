@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_EqDRM4
+    name: TestAccResourcePipeline_EqDRM4_updated
     identifier: TestAccResourcePipeline_EqDRM4   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_EqDRM4
