@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_DZ0Blb
+    name: TestAccResourcePipeline_DZ0Blb_updated
     identifier: TestAccResourcePipeline_DZ0Blb   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_DZ0Blb
