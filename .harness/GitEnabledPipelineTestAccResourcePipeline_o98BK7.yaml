@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_o98BK7
+    name: TestAccResourcePipeline_o98BK7_updated
     identifier: TestAccResourcePipeline_o98BK7   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_o98BK7
