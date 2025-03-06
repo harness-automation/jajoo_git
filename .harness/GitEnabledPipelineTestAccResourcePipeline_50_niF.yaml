@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_50_niF
+    name: TestAccResourcePipeline_50_niF_updated
     identifier: TestAccResourcePipeline_50_niF   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_50_niF
