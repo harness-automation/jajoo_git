@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_JgKvsm
+    name: TestAccResourcePipeline_JgKvsm_updated
     identifier: TestAccResourcePipeline_JgKvsm   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_JgKvsm
