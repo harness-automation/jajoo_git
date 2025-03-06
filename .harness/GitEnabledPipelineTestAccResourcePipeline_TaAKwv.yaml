@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_TaAKwv
+    name: TestAccResourcePipeline_TaAKwv_updated
     identifier: TestAccResourcePipeline_TaAKwv   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_TaAKwv
