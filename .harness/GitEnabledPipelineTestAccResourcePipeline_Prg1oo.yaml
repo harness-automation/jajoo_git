@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_Prg1oo
+    name: TestAccResourcePipeline_Prg1oo_updated
     identifier: TestAccResourcePipeline_Prg1oo   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_Prg1oo
