@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_x1RAPp
+    name: TestAccResourcePipeline_x1RAPp_updated
     identifier: TestAccResourcePipeline_x1RAPp   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_x1RAPp
