@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_HOQglY
+    name: TestAccResourcePipeline_HOQglY_updated
     identifier: TestAccResourcePipeline_HOQglY   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_HOQglY
