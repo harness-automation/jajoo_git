@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_3gaZas
+    name: TestAccResourcePipeline_3gaZas_updated
     identifier: TestAccResourcePipeline_3gaZas   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_3gaZas
