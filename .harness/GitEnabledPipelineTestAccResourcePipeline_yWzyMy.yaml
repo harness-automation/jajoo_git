@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_yWzyMy
+    name: TestAccResourcePipeline_yWzyMy_updated
     identifier: TestAccResourcePipeline_yWzyMy   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_yWzyMy
