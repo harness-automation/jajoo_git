@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_xtvd_R
+    name: TestAccResourcePipeline_xtvd_R_updated
     identifier: TestAccResourcePipeline_xtvd_R   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_xtvd_R
