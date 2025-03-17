@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_CCIJFD
+    name: TestAccResourcePipeline_CCIJFD_updated
     identifier: TestAccResourcePipeline_CCIJFD   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_CCIJFD
