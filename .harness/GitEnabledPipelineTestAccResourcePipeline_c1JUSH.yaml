@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_c1JUSH
+    name: TestAccResourcePipeline_c1JUSH_updated
     identifier: TestAccResourcePipeline_c1JUSH   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_c1JUSH
