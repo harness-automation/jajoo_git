@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_srsssq"
+   name: "TestAccResourceTemplateProjectScope_srsssq_updated"
    identifier: "TestAccResourceTemplateProjectScope_srsssq"
    versionLabel: ab
    type: Pipeline
