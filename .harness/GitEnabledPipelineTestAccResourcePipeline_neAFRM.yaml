@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_neAFRM
+    name: TestAccResourcePipeline_neAFRM_updated
     identifier: TestAccResourcePipeline_neAFRM   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_neAFRM
