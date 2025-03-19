@@ -1,6 +1,6 @@
 inputSet:
   identifier: "TestAccResourceInputSetRemote__7zPp"
-  name: "TestAccResourceInputSetRemote"
+  name: "TestAccResourceInputSetRemote_updated"
   tags:
     foo: "bar"
   orgIdentifier: "TestAccResourceInputSetRemote__7zPp"
