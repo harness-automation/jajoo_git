@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_qsHSsk"
+   name: "TestAccResourceTemplate_AccountScope_qsHSsk_updated"
    identifier: "TestAccResourceTemplate_AccountScope_qsHSsk"
    versionLabel: ab
    type: Pipeline
