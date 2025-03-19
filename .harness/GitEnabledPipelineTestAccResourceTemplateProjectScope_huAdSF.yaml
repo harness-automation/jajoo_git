@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_huAdSF"
+   name: "TestAccResourceTemplateProjectScope_huAdSF_updated"
    identifier: "TestAccResourceTemplateProjectScope_huAdSF"
    versionLabel: ab
    type: Pipeline
