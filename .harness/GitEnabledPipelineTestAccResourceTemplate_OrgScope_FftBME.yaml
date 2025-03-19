@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_FftBME"
+   name: "TestAccResourceTemplate_OrgScope_FftBME_updated"
    identifier: "TestAccResourceTemplate_OrgScope_FftBME"
    versionLabel: ab
    type: Pipeline
