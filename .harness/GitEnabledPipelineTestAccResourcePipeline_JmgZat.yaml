@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_JmgZat
+    name: TestAccResourcePipeline_JmgZat_updated
     identifier: TestAccResourcePipeline_JmgZat   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_JmgZat
