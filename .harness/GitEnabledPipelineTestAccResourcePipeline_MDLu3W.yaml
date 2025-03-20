@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_MDLu3W
+    name: TestAccResourcePipeline_MDLu3W_updated
     identifier: TestAccResourcePipeline_MDLu3W   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_MDLu3W
