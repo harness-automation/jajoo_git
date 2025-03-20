@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_rhiUWP"
+   name: "TestAccResourceTemplate_AccountScopeInline_rhiUWP_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_rhiUWP"
    versionLabel: ab
    type: Pipeline
