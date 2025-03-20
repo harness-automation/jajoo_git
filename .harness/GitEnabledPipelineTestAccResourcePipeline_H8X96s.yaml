@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_H8X96s
+    name: TestAccResourcePipeline_H8X96s_updated
     identifier: TestAccResourcePipeline_H8X96s   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_H8X96s
