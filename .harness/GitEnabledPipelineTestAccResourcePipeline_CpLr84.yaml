@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_CpLr84
+    name: TestAccResourcePipeline_CpLr84_updated
     identifier: TestAccResourcePipeline_CpLr84   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_CpLr84
