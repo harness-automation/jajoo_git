@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_bRtJAK
+    name: TestAccResourcePipeline_bRtJAK_updated
     identifier: TestAccResourcePipeline_bRtJAK   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_bRtJAK
