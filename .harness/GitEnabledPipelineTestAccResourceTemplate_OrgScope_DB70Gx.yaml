@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_DB70Gx"
+   name: "TestAccResourceTemplate_OrgScope_DB70Gx_updated"
    identifier: "TestAccResourceTemplate_OrgScope_DB70Gx"
    versionLabel: ab
    type: Pipeline
