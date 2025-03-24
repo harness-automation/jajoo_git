@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_ur993q
+    name: TestAccResourcePipeline_ur993q_updated
     identifier: TestAccResourcePipeline_ur993q   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_ur993q
