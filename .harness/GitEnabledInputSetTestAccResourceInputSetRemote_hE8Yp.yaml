@@ -1,0 +1,13 @@
+inputSet:
+  identifier: "TestAccResourceInputSetRemote_hE8Yp"
+  name: "TestAccResourceInputSetRemote"
+  tags:
+    foo: "bar"
+  orgIdentifier: "TestAccResourceInputSetRemote_hE8Yp"
+  projectIdentifier: "TestAccResourceInputSetRemote_hE8Yp"
+  pipeline:
+    identifier: "TestAccResourceInputSetRemote_hE8Yp"
+    variables:
+    - name: "key"
+      type: "String"
+      value: "value"
