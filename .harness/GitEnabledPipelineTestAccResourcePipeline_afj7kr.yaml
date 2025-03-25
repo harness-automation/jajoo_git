@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_afj7kr
+    name: TestAccResourcePipeline_afj7kr_updated
     identifier: TestAccResourcePipeline_afj7kr   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_afj7kr
