@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_XRwGAm
+    name: TestAccResourcePipeline_XRwGAm_updated
     identifier: TestAccResourcePipeline_XRwGAm   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_XRwGAm
