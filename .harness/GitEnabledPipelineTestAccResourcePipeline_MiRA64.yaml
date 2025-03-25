@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_MiRA64
+    name: TestAccResourcePipeline_MiRA64_updated
     identifier: TestAccResourcePipeline_MiRA64   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_MiRA64
