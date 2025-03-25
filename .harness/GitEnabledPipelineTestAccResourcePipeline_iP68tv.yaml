@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_iP68tv
+    name: TestAccResourcePipeline_iP68tv_updated
     identifier: TestAccResourcePipeline_iP68tv   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_iP68tv
