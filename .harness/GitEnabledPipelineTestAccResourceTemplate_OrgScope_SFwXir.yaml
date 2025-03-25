@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_SFwXir"
+   name: "TestAccResourceTemplate_OrgScope_SFwXir_updated"
    identifier: "TestAccResourceTemplate_OrgScope_SFwXir"
    versionLabel: ab
    type: Pipeline
