@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_WMyojb"
+   name: "TestAccResourceTemplate_OrgScope_WMyojb_updated"
    identifier: "TestAccResourceTemplate_OrgScope_WMyojb"
    versionLabel: ab
    type: Pipeline
