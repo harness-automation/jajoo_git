@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_JMwRIh
+    name: TestAccResourcePipeline_JMwRIh_updated
     identifier: TestAccResourcePipeline_JMwRIh   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_JMwRIh
