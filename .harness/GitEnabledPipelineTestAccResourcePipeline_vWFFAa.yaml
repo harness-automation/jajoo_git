@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_vWFFAa
+    name: TestAccResourcePipeline_vWFFAa_updated
     identifier: TestAccResourcePipeline_vWFFAa   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_vWFFAa
