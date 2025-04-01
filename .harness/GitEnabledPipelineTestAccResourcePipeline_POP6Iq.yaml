@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_POP6Iq
+    name: TestAccResourcePipeline_POP6Iq_updated
     identifier: TestAccResourcePipeline_POP6Iq   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_POP6Iq
