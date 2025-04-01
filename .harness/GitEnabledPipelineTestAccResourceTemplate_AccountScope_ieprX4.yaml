@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_ieprX4"
+   name: "TestAccResourceTemplate_AccountScope_ieprX4_updated"
    identifier: "TestAccResourceTemplate_AccountScope_ieprX4"
    versionLabel: ab
    type: Pipeline
