@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_EC6Xny
+    name: TestAccResourcePipeline_EC6Xny_updated
     identifier: TestAccResourcePipeline_EC6Xny   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_EC6Xny
