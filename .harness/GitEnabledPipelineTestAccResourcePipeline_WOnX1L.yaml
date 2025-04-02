@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_WOnX1L
+    name: TestAccResourcePipeline_WOnX1L_updated
     identifier: TestAccResourcePipeline_WOnX1L   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_WOnX1L
