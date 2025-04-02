@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_RxCaSR"
+   name: "TestAccResourceTemplate_AccountScope_RxCaSR_updated"
    identifier: "TestAccResourceTemplate_AccountScope_RxCaSR"
    versionLabel: ab
    type: Pipeline
