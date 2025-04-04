@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_CYsnu3
+    name: TestAccResourcePipeline_CYsnu3_updated
     identifier: TestAccResourcePipeline_CYsnu3   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_CYsnu3
