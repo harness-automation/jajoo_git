@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_WJbbTD
+    name: TestAccResourcePipeline_WJbbTD_updated
     identifier: TestAccResourcePipeline_WJbbTD   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_WJbbTD
