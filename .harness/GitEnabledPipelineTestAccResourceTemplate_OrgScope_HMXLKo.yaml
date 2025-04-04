@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_HMXLKo"
+   name: "TestAccResourceTemplate_OrgScope_HMXLKo_updated"
    identifier: "TestAccResourceTemplate_OrgScope_HMXLKo"
    versionLabel: ab
    type: Pipeline
