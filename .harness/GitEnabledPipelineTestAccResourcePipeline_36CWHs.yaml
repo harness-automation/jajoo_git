@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_36CWHs
+    name: TestAccResourcePipeline_36CWHs_updated
     identifier: TestAccResourcePipeline_36CWHs   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_36CWHs
