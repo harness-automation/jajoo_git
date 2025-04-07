@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_m5opWt
+    name: TestAccResourcePipeline_m5opWt_updated
     identifier: TestAccResourcePipeline_m5opWt   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_m5opWt
