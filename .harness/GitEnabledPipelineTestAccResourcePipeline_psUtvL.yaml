@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_psUtvL
+    name: TestAccResourcePipeline_psUtvL_updated
     identifier: TestAccResourcePipeline_psUtvL   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_psUtvL
