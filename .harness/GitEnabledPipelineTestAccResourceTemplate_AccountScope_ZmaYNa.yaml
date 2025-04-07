@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_ZmaYNa"
+   name: "TestAccResourceTemplate_AccountScope_ZmaYNa_updated"
    identifier: "TestAccResourceTemplate_AccountScope_ZmaYNa"
    versionLabel: ab
    type: Pipeline
