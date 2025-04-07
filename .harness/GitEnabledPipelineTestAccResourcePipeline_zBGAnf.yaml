@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_zBGAnf
+    name: TestAccResourcePipeline_zBGAnf_updated
     identifier: TestAccResourcePipeline_zBGAnf   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_zBGAnf
