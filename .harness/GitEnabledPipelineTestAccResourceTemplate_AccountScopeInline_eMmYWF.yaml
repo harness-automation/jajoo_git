@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_eMmYWF"
+   name: "TestAccResourceTemplate_AccountScopeInline_eMmYWF_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_eMmYWF"
    versionLabel: ab
    type: Pipeline
