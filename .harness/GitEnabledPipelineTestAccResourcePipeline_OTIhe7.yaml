@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_OTIhe7
+    name: TestAccResourcePipeline_OTIhe7_updated
     identifier: TestAccResourcePipeline_OTIhe7   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_OTIhe7
