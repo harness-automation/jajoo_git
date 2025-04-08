@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_WIWGSM3J1W
+    name: TestAccResourcePipeline_WIWGSM3J1W_updated
     identifier: TestAccResourcePipeline_WIWGSM3J1W   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_WIWGSM3J1W
