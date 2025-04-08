@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_Karw_e
+    name: TestAccResourcePipeline_Karw_e_updated
     identifier: TestAccResourcePipeline_Karw_e   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_Karw_e
