@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_wxnM7B
+    name: TestAccResourcePipeline_wxnM7B_updated
     identifier: TestAccResourcePipeline_wxnM7B   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_wxnM7B
