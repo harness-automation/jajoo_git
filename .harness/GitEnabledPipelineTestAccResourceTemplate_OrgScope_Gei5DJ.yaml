@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_Gei5DJ"
+   name: "TestAccResourceTemplate_OrgScope_Gei5DJ_updated"
    identifier: "TestAccResourceTemplate_OrgScope_Gei5DJ"
    versionLabel: ab
    type: Pipeline
