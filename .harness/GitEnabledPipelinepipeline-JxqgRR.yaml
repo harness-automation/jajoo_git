@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_dVUSn8
+    name: TestAccResourcePipeline_dVUSn8_updated
     identifier: TestAccResourcePipeline_dVUSn8   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_dVUSn8
