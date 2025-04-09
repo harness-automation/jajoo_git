@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_jAST9V"
+   name: "TestAccResourceTemplate_OrgScope_jAST9V_updated"
    identifier: "TestAccResourceTemplate_OrgScope_jAST9V"
    versionLabel: ab
    type: Pipeline
