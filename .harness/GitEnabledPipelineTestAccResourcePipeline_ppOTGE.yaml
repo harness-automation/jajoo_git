@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_ppOTGE
+    name: TestAccResourcePipeline_ppOTGE_updated
     identifier: TestAccResourcePipeline_ppOTGE   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_ppOTGE
