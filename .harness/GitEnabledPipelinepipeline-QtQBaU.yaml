@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_eEzrOa
+    name: TestAccResourcePipeline_eEzrOa_updated
     identifier: TestAccResourcePipeline_eEzrOa   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_eEzrOa
