@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_hLyeb3
+    name: TestAccResourcePipeline_hLyeb3_updated
     identifier: TestAccResourcePipeline_hLyeb3   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_hLyeb3
