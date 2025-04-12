@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_uTcCz8
+    name: TestAccResourcePipeline_uTcCz8_updated
     identifier: TestAccResourcePipeline_uTcCz8   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_uTcCz8
