@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_sLpCjH
+    name: TestAccResourcePipeline_sLpCjH_updated
     identifier: TestAccResourcePipeline_sLpCjH   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_sLpCjH
