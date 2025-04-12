@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_rSSI8X"
+   name: "TestAccResourceTemplate_AccountScope_rSSI8X_updated"
    identifier: "TestAccResourceTemplate_AccountScope_rSSI8X"
    versionLabel: ab
    type: Pipeline
