@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_XGY2as"
+   name: "TestAccResourceTemplateProjectScope_XGY2as_updated"
    identifier: "TestAccResourceTemplateProjectScope_XGY2as"
    versionLabel: ab
    type: Pipeline
