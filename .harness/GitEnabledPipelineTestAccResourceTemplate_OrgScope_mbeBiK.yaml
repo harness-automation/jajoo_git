@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_mbeBiK"
+   name: "TestAccResourceTemplate_OrgScope_mbeBiK_updated"
    identifier: "TestAccResourceTemplate_OrgScope_mbeBiK"
    versionLabel: ab
    type: Pipeline
