@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_TzloGF
+    name: TestAccResourcePipeline_TzloGF_updated
     identifier: TestAccResourcePipeline_TzloGF   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_TzloGF
