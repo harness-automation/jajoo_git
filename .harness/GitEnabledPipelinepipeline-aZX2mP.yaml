@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_j55gmF
+    name: TestAccResourcePipeline_j55gmF_updated
     identifier: TestAccResourcePipeline_j55gmF   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_j55gmF
