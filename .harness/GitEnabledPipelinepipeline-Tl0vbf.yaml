@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_CLV2lg
+    name: TestAccResourcePipeline_CLV2lg_updated
     identifier: TestAccResourcePipeline_CLV2lg   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_CLV2lg
