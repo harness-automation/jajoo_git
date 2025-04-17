@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_ErAYmf"
+   name: "TestAccResourceTemplate_OrgScope_ErAYmf_updated"
    identifier: "TestAccResourceTemplate_OrgScope_ErAYmf"
    versionLabel: ab
    type: Pipeline
