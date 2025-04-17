@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_pOTsyI"
+   name: "TestAccResourceTemplate_OrgScope_pOTsyI_updated"
    identifier: "TestAccResourceTemplate_OrgScope_pOTsyI"
    versionLabel: ab
    type: Pipeline
