@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_GOVQI_"
+   name: "TestAccResourceTemplateProjectScope_GOVQI__updated"
    identifier: "TestAccResourceTemplateProjectScope_GOVQI_"
    versionLabel: ab
    type: Pipeline
