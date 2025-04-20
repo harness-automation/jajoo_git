@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_nTA6xF
+    name: TestAccResourcePipeline_nTA6xF_updated
     identifier: TestAccResourcePipeline_nTA6xF   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_nTA6xF
