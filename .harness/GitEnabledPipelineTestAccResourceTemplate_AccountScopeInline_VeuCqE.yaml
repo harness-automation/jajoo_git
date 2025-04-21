@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_VeuCqE"
+   name: "TestAccResourceTemplate_AccountScopeInline_VeuCqE_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_VeuCqE"
    versionLabel: ab
    type: Pipeline
