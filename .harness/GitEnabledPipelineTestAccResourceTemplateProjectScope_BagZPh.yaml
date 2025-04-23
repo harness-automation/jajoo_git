@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_BagZPh"
+   name: "TestAccResourceTemplateProjectScope_BagZPh_updated"
    identifier: "TestAccResourceTemplateProjectScope_BagZPh"
    versionLabel: ab
    type: Pipeline
