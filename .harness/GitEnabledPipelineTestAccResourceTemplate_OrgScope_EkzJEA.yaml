@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_EkzJEA"
+   name: "TestAccResourceTemplate_OrgScope_EkzJEA_updated"
    identifier: "TestAccResourceTemplate_OrgScope_EkzJEA"
    versionLabel: ab
    type: Pipeline
