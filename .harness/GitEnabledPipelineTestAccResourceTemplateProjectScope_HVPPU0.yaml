@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_HVPPU0"
+   name: "TestAccResourceTemplateProjectScope_HVPPU0_updated"
    identifier: "TestAccResourceTemplateProjectScope_HVPPU0"
    versionLabel: ab
    type: Pipeline
