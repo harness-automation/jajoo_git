@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_VAs8BI"
+   name: "TestAccResourceTemplate_OrgScope_VAs8BI_updated"
    identifier: "TestAccResourceTemplate_OrgScope_VAs8BI"
    versionLabel: ab
    type: Pipeline
