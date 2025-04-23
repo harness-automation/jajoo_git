@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_PzUsFS
+    name: TestAccResourcePipeline_PzUsFS_updated
     identifier: TestAccResourcePipeline_PzUsFS   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_PzUsFS
