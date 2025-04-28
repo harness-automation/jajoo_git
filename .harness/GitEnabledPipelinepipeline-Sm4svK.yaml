@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_LHb4Mf
+    name: TestAccResourcePipeline_LHb4Mf_updated
     identifier: TestAccResourcePipeline_LHb4Mf   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_LHb4Mf
