@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_jECEe7
+    name: TestAccResourcePipeline_jECEe7_updated
     identifier: TestAccResourcePipeline_jECEe7   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_jECEe7
