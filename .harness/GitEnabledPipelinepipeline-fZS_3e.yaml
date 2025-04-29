@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_M_8lym
+    name: TestAccResourcePipeline_M_8lym_updated
     identifier: TestAccResourcePipeline_M_8lym   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_M_8lym
