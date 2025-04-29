@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_mtLL_B"
+   name: "TestAccResourceTemplateProjectScope_mtLL_B_updated"
    identifier: "TestAccResourceTemplateProjectScope_mtLL_B"
    versionLabel: ab
    type: Pipeline
