@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_22gHeI
+    name: TestAccResourcePipeline_22gHeI_updated
     identifier: TestAccResourcePipeline_22gHeI   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_22gHeI
