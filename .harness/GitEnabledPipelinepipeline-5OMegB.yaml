@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_MXQPjL
+    name: TestAccResourcePipeline_MXQPjL_updated
     identifier: TestAccResourcePipeline_MXQPjL   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_MXQPjL
