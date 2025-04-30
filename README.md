@@ -1,1 +1,0 @@
-# jajoo_git
