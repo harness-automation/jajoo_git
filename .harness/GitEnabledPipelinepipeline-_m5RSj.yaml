@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_2bfaDQ
+    name: TestAccResourcePipeline_2bfaDQ_updated
     identifier: TestAccResourcePipeline_2bfaDQ   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_2bfaDQ
