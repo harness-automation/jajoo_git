@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_ltK074
+    name: TestAccResourcePipeline_ltK074_updated
     identifier: TestAccResourcePipeline_ltK074   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_ltK074
