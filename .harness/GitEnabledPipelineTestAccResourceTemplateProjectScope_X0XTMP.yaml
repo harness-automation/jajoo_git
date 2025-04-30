@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_X0XTMP"
+   name: "TestAccResourceTemplateProjectScope_X0XTMP_updated"
    identifier: "TestAccResourceTemplateProjectScope_X0XTMP"
    versionLabel: ab
    type: Pipeline
