@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_KSiMbt"
+   name: "TestAccResourceTemplateProjectScope_KSiMbt_updated"
    identifier: "TestAccResourceTemplateProjectScope_KSiMbt"
    versionLabel: ab
    type: Pipeline
