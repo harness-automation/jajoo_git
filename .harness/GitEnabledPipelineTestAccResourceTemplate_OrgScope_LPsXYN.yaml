@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_LPsXYN"
+   name: "TestAccResourceTemplate_OrgScope_LPsXYN_updated"
    identifier: "TestAccResourceTemplate_OrgScope_LPsXYN"
    versionLabel: ab
    type: Pipeline
