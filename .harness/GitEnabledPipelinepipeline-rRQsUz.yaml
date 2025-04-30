@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_oDN_if
+    name: TestAccResourcePipeline_oDN_if_updated
     identifier: TestAccResourcePipeline_oDN_if   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_oDN_if
