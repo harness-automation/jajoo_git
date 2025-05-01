@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_FQEDPt"
+   name: "TestAccResourceTemplate_AccountScopeInline_FQEDPt_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_FQEDPt"
    versionLabel: ab
    type: Pipeline
