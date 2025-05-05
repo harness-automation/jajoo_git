@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_gLBzrm"
+   name: "TestAccResourceTemplateProjectScope_gLBzrm_updated"
    identifier: "TestAccResourceTemplateProjectScope_gLBzrm"
    versionLabel: ab
    type: Pipeline
