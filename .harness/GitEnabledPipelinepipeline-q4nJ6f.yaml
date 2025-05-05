@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_gvcRmj
+    name: TestAccResourcePipeline_gvcRmj_updated
     identifier: TestAccResourcePipeline_gvcRmj   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_gvcRmj
