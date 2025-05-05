@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_sKZorI
+    name: TestAccResourcePipeline_sKZorI_updated
     identifier: TestAccResourcePipeline_sKZorI   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_sKZorI
