@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_960ORM"
+   name: "TestAccResourceTemplateProjectScope_960ORM_updated"
    identifier: "TestAccResourceTemplateProjectScope_960ORM"
    versionLabel: ab
    type: Pipeline
