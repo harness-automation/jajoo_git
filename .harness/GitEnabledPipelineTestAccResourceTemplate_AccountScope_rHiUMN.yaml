@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_rHiUMN"
+   name: "TestAccResourceTemplate_AccountScope_rHiUMN_updated"
    identifier: "TestAccResourceTemplate_AccountScope_rHiUMN"
    versionLabel: ab
    type: Pipeline
