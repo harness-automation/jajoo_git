@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_YjBrea
+    name: TestAccResourcePipeline_YjBrea_updated
     identifier: TestAccResourcePipeline_YjBrea   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_YjBrea
