@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_fRG3Vr
+    name: TestAccResourcePipeline_fRG3Vr_updated
     identifier: TestAccResourcePipeline_fRG3Vr   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_fRG3Vr
