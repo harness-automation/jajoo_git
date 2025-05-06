@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_Jme_gc"
+   name: "TestAccResourceTemplate_AccountScopeInline_Jme_gc_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_Jme_gc"
    versionLabel: ab
    type: Pipeline
