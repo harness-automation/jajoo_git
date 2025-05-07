@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_HmjSG8
+    name: TestAccResourcePipeline_HmjSG8_updated
     identifier: TestAccResourcePipeline_HmjSG8   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_HmjSG8
