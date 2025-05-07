@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_vDKYNK
+    name: TestAccResourcePipeline_vDKYNK_updated
     identifier: TestAccResourcePipeline_vDKYNK   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_vDKYNK
