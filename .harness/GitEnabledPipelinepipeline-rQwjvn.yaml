@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_GeKZ3L
+    name: TestAccResourcePipeline_GeKZ3L_updated
     identifier: TestAccResourcePipeline_GeKZ3L   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_GeKZ3L
