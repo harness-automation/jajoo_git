@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_Gp6FHK
+    name: TestAccResourcePipeline_Gp6FHK_updated
     identifier: TestAccResourcePipeline_Gp6FHK   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_Gp6FHK
