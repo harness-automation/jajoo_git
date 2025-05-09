@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_dh1TQO
+    name: TestAccResourcePipeline_dh1TQO_updated
     identifier: TestAccResourcePipeline_dh1TQO   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_dh1TQO
