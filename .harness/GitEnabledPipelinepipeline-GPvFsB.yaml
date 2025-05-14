@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_ESmgBA
+    name: TestAccResourcePipeline_ESmgBA_updated
     identifier: TestAccResourcePipeline_ESmgBA   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_ESmgBA
