@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_iD_ft2
+    name: TestAccResourcePipeline_iD_ft2_updated
     identifier: TestAccResourcePipeline_iD_ft2   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_iD_ft2
