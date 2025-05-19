@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_eGdl_y"
+   name: "TestAccResourceTemplateProjectScope_eGdl_y_updated"
    identifier: "TestAccResourceTemplateProjectScope_eGdl_y"
    versionLabel: ab
    type: Pipeline
