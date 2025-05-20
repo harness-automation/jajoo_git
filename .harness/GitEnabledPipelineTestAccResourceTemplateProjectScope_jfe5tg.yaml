@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_jfe5tg"
+   name: "TestAccResourceTemplateProjectScope_jfe5tg_updated"
    identifier: "TestAccResourceTemplateProjectScope_jfe5tg"
    versionLabel: ab
    type: Pipeline
