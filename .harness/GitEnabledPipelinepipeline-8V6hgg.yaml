@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_VkxeNz
+    name: TestAccResourcePipeline_VkxeNz_updated
     identifier: TestAccResourcePipeline_VkxeNz   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_VkxeNz
