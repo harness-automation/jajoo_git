@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_KPFurw"
+   name: "TestAccResourceTemplate_OrgScope_KPFurw_updated"
    identifier: "TestAccResourceTemplate_OrgScope_KPFurw"
    versionLabel: ab
    type: Pipeline
