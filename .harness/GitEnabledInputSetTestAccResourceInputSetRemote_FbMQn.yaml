@@ -1,0 +1,13 @@
+inputSet:
+  identifier: "TestAccResourceInputSetRemote_FbMQn"
+  name: "TestAccResourceInputSetRemote"
+  tags:
+    foo: "bar"
+  orgIdentifier: "TestAccResourceInputSetRemote_FbMQn"
+  projectIdentifier: "TestAccResourceInputSetRemote_FbMQn"
+  pipeline:
+    identifier: "TestAccResourceInputSetRemote_FbMQn"
+    variables:
+    - name: "key"
+      type: "String"
+      value: "value"
