@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_iZqLzt
+    name: TestAccResourcePipeline_iZqLzt_updated
     identifier: TestAccResourcePipeline_iZqLzt   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_iZqLzt
