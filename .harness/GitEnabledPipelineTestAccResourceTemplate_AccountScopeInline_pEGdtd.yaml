@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_pEGdtd"
+   name: "TestAccResourceTemplate_AccountScopeInline_pEGdtd_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_pEGdtd"
    versionLabel: ab
    type: Pipeline
