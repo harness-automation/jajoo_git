@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_YOnwAS
+    name: TestAccResourcePipeline_YOnwAS_updated
     identifier: TestAccResourcePipeline_YOnwAS   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_YOnwAS
