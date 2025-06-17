@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_QTt2go"
+   name: "TestAccResourceTemplateProjectScope_QTt2go_updated"
    identifier: "TestAccResourceTemplateProjectScope_QTt2go"
    versionLabel: ab
    type: Pipeline
