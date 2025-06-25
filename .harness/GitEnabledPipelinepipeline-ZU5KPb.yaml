@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_45BYgu
+    name: TestAccResourcePipeline_45BYgu_updated
     identifier: TestAccResourcePipeline_45BYgu   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_45BYgu
