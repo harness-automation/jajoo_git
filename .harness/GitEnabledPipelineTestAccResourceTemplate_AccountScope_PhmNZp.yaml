@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_PhmNZp"
+   name: "TestAccResourceTemplate_AccountScope_PhmNZp_updated"
    identifier: "TestAccResourceTemplate_AccountScope_PhmNZp"
    versionLabel: ab
    type: Pipeline
