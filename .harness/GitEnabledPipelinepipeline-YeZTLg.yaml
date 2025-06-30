@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_jv8IPb
+    name: TestAccResourcePipeline_jv8IPb_updated
     identifier: TestAccResourcePipeline_jv8IPb   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_jv8IPb
