@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_okOXCO
+    name: TestAccResourcePipeline_okOXCO_updated
     identifier: TestAccResourcePipeline_okOXCO   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_okOXCO
