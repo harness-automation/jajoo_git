@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_PlmLYN"
+   name: "TestAccResourceTemplateProjectScope_PlmLYN_updated"
    identifier: "TestAccResourceTemplateProjectScope_PlmLYN"
    versionLabel: ab
    type: Pipeline
