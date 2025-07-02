@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_HZqPeR
+    name: TestAccResourcePipeline_HZqPeR_updated
     identifier: TestAccResourcePipeline_HZqPeR   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_HZqPeR
