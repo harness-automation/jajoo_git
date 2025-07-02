@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_RMhwjR
+    name: TestAccResourcePipeline_RMhwjR_updated
     identifier: TestAccResourcePipeline_RMhwjR   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_RMhwjR
