@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_OzFPxC
+    name: TestAccResourcePipeline_OzFPxC_updated
     identifier: TestAccResourcePipeline_OzFPxC   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_OzFPxC
