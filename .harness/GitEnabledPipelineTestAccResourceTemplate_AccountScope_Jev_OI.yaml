@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_Jev_OI"
+   name: "TestAccResourceTemplate_AccountScope_Jev_OI_updated"
    identifier: "TestAccResourceTemplate_AccountScope_Jev_OI"
    versionLabel: ab
    type: Pipeline
