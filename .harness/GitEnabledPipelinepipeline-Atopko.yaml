@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_n1HBT4
+    name: TestAccResourcePipeline_n1HBT4_updated
     identifier: TestAccResourcePipeline_n1HBT4   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_n1HBT4
