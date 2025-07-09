@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_B7QYAm
+    name: TestAccResourcePipeline_B7QYAm_updated
     identifier: TestAccResourcePipeline_B7QYAm   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_B7QYAm
