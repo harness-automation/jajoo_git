@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_CTv2QR"
+   name: "TestAccResourceTemplate_AccountScopeInline_CTv2QR_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_CTv2QR"
    versionLabel: ab
    type: Pipeline
