@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_kIHpN2
+    name: TestAccResourcePipeline_kIHpN2_updated
     identifier: TestAccResourcePipeline_kIHpN2   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_kIHpN2
