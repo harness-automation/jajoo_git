@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_EBynZ7
+    name: TestAccResourcePipeline_EBynZ7_updated
     identifier: TestAccResourcePipeline_EBynZ7   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_EBynZ7
