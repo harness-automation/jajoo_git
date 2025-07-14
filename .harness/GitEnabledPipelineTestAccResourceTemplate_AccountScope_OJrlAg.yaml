@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_OJrlAg"
+   name: "TestAccResourceTemplate_AccountScope_OJrlAg_updated"
    identifier: "TestAccResourceTemplate_AccountScope_OJrlAg"
    versionLabel: ab
    type: Pipeline
