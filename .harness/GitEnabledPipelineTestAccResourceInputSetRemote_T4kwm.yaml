@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourceInputSetRemote
+    name: TestAccResourceInputSetRemote_updated
     identifier: TestAccResourceInputSetRemote_T4kwm
     allowStageExecutions: false
     projectIdentifier: TestAccResourceInputSetRemote_T4kwm
