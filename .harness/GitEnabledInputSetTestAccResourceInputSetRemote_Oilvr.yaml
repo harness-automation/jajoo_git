@@ -1,0 +1,13 @@
+inputSet:
+  identifier: "TestAccResourceInputSetRemote_Oilvr"
+  name: "TestAccResourceInputSetRemote"
+  tags:
+    foo: "bar"
+  orgIdentifier: "TestAccResourceInputSetRemote_Oilvr"
+  projectIdentifier: "TestAccResourceInputSetRemote_Oilvr"
+  pipeline:
+    identifier: "TestAccResourceInputSetRemote_Oilvr"
+    variables:
+    - name: "key"
+      type: "String"
+      value: "value"
