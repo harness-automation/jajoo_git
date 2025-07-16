@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_VixBrj"
+   name: "TestAccResourceTemplateProjectScope_VixBrj_updated"
    identifier: "TestAccResourceTemplateProjectScope_VixBrj"
    versionLabel: ab
    type: Pipeline
