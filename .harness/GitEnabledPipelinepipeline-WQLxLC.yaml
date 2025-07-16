@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_pcjUKA
+    name: TestAccResourcePipeline_pcjUKA_updated
     identifier: TestAccResourcePipeline_pcjUKA   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_pcjUKA
