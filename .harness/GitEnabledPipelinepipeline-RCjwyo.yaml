@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_rW_FSk
+    name: TestAccResourcePipeline_rW_FSk_updated
     identifier: TestAccResourcePipeline_rW_FSk   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_rW_FSk
