@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_LHvDng"
+   name: "TestAccResourceTemplate_AccountScopeInline_LHvDng_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_LHvDng"
    versionLabel: ab
    type: Pipeline
