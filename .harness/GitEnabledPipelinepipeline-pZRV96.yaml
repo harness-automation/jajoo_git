@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_948NDV
+    name: TestAccResourcePipeline_948NDV_updated
     identifier: TestAccResourcePipeline_948NDV   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_948NDV
