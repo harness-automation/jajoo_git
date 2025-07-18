@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_DlDtbs
+    name: TestAccResourcePipeline_DlDtbs_updated
     identifier: TestAccResourcePipeline_DlDtbs   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_DlDtbs
