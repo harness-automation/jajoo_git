@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_NsyGMM"
+   name: "TestAccResourceTemplateProjectScope_NsyGMM_updated"
    identifier: "TestAccResourceTemplateProjectScope_NsyGMM"
    versionLabel: ab
    type: Pipeline
