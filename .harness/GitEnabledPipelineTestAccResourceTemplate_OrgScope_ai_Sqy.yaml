@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_ai_Sqy"
+   name: "TestAccResourceTemplate_OrgScope_ai_Sqy_updated"
    identifier: "TestAccResourceTemplate_OrgScope_ai_Sqy"
    versionLabel: ab
    type: Pipeline
