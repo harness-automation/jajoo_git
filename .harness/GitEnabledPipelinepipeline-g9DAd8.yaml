@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_4HpSyE
+    name: TestAccResourcePipeline_4HpSyE_updated
     identifier: TestAccResourcePipeline_4HpSyE   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_4HpSyE
