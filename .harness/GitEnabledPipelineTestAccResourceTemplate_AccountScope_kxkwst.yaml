@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_kxkwst"
+   name: "TestAccResourceTemplate_AccountScope_kxkwst_updated"
    identifier: "TestAccResourceTemplate_AccountScope_kxkwst"
    versionLabel: ab
    type: Pipeline
