@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_GDNV1M"
+   name: "TestAccResourceTemplateProjectScope_GDNV1M_updated"
    identifier: "TestAccResourceTemplateProjectScope_GDNV1M"
    versionLabel: ab
    type: Pipeline
