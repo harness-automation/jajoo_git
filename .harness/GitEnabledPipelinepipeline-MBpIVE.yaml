@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_PWFJO2
+    name: TestAccResourcePipeline_PWFJO2_updated
     identifier: TestAccResourcePipeline_PWFJO2   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_PWFJO2
