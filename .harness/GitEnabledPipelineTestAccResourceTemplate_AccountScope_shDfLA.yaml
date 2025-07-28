@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_shDfLA"
+   name: "TestAccResourceTemplate_AccountScope_shDfLA_updated"
    identifier: "TestAccResourceTemplate_AccountScope_shDfLA"
    versionLabel: ab
    type: Pipeline
