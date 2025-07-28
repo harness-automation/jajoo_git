@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_TmDigC"
+   name: "TestAccResourceTemplate_AccountScopeInline_TmDigC_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_TmDigC"
    versionLabel: ab
    type: Pipeline
