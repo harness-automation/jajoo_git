@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_k2QBOR
+    name: TestAccResourcePipeline_k2QBOR_updated
     identifier: TestAccResourcePipeline_k2QBOR   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_k2QBOR
