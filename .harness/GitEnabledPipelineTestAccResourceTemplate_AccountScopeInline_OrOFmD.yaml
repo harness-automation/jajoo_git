@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_OrOFmD"
+   name: "TestAccResourceTemplate_AccountScopeInline_OrOFmD_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_OrOFmD"
    versionLabel: ab
    type: Pipeline
