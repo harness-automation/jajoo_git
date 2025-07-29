@@ -1,0 +1,13 @@
+inputSet:
+  identifier: "TestAccResourceInputSetRemote_tvIBT"
+  name: "TestAccResourceInputSetRemote"
+  tags:
+    foo: "bar"
+  orgIdentifier: "TestAccResourceInputSetRemote_tvIBT"
+  projectIdentifier: "TestAccResourceInputSetRemote_tvIBT"
+  pipeline:
+    identifier: "TestAccResourceInputSetRemote_tvIBT"
+    variables:
+    - name: "key"
+      type: "String"
+      value: "value"
