@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_DFsBMw
+    name: TestAccResourcePipeline_DFsBMw_updated
     identifier: TestAccResourcePipeline_DFsBMw   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_DFsBMw
