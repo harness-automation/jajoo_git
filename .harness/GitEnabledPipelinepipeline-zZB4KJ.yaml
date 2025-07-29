@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_QtJNZ9
+    name: TestAccResourcePipeline_QtJNZ9_updated
     identifier: TestAccResourcePipeline_QtJNZ9   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_QtJNZ9
