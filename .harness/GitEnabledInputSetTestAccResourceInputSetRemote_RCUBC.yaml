@@ -1,0 +1,13 @@
+inputSet:
+  identifier: "TestAccResourceInputSetRemote_RCUBC"
+  name: "TestAccResourceInputSetRemote"
+  tags:
+    foo: "bar"
+  orgIdentifier: "TestAccResourceInputSetRemote_RCUBC"
+  projectIdentifier: "TestAccResourceInputSetRemote_RCUBC"
+  pipeline:
+    identifier: "TestAccResourceInputSetRemote_RCUBC"
+    variables:
+    - name: "key"
+      type: "String"
+      value: "value"
