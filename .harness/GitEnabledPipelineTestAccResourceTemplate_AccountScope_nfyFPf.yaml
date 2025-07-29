@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_nfyFPf"
+   name: "TestAccResourceTemplate_AccountScope_nfyFPf_updated"
    identifier: "TestAccResourceTemplate_AccountScope_nfyFPf"
    versionLabel: ab
    type: Pipeline
