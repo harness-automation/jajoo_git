@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_tOfcag"
+   name: "TestAccResourceTemplateProjectScope_tOfcag_updated"
    identifier: "TestAccResourceTemplateProjectScope_tOfcag"
    versionLabel: ab
    type: Pipeline
