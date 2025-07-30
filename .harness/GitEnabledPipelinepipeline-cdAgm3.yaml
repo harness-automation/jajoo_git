@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_mCdUwT
+    name: TestAccResourcePipeline_mCdUwT_updated
     identifier: TestAccResourcePipeline_mCdUwT   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_mCdUwT
