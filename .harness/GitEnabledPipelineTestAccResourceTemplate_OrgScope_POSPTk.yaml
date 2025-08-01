@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_POSPTk"
+   name: "TestAccResourceTemplate_OrgScope_POSPTk_updated"
    identifier: "TestAccResourceTemplate_OrgScope_POSPTk"
    versionLabel: ab
    type: Pipeline
