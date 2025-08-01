@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_XmsVxe"
+   name: "TestAccResourceTemplate_AccountScopeInline_XmsVxe_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_XmsVxe"
    versionLabel: ab
    type: Pipeline
