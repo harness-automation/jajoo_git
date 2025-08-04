@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_euVSof"
+   name: "TestAccResourceTemplateProjectScope_euVSof_updated"
    identifier: "TestAccResourceTemplateProjectScope_euVSof"
    versionLabel: ab
    type: Pipeline
