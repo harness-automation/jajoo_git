@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_elbS6l"
+   name: "TestAccResourceTemplateProjectScope_elbS6l_updated"
    identifier: "TestAccResourceTemplateProjectScope_elbS6l"
    versionLabel: ab
    type: Pipeline
