@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_IDSs3X"
+   name: "TestAccResourceTemplate_AccountScopeInline_IDSs3X_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_IDSs3X"
    versionLabel: ab
    type: Pipeline
