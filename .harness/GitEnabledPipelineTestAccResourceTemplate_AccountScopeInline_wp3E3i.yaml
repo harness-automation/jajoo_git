@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_wp3E3i"
+   name: "TestAccResourceTemplate_AccountScopeInline_wp3E3i_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_wp3E3i"
    versionLabel: ab
    type: Pipeline
