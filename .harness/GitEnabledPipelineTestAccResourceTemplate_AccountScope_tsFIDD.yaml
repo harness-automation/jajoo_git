@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_tsFIDD"
+   name: "TestAccResourceTemplate_AccountScope_tsFIDD_updated"
    identifier: "TestAccResourceTemplate_AccountScope_tsFIDD"
    versionLabel: ab
    type: Pipeline
