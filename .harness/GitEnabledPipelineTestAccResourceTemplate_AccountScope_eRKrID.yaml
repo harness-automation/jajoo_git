@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_eRKrID"
+   name: "TestAccResourceTemplate_AccountScope_eRKrID_updated"
    identifier: "TestAccResourceTemplate_AccountScope_eRKrID"
    versionLabel: ab
    type: Pipeline
