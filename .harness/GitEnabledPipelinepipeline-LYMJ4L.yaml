@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_T_UNaa
+    name: TestAccResourcePipeline_T_UNaa_updated
     identifier: TestAccResourcePipeline_T_UNaa   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_T_UNaa
