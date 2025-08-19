@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_kduvti
+    name: TestAccResourcePipeline_kduvti_updated
     identifier: TestAccResourcePipeline_kduvti   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_kduvti
