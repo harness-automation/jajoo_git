@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_JiHPwR
+    name: TestAccResourcePipeline_JiHPwR_updated
     identifier: TestAccResourcePipeline_JiHPwR   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_JiHPwR
