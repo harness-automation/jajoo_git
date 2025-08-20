@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_KlezHg"
+   name: "TestAccResourceTemplateProjectScope_KlezHg_updated"
    identifier: "TestAccResourceTemplateProjectScope_KlezHg"
    versionLabel: ab
    type: Pipeline
