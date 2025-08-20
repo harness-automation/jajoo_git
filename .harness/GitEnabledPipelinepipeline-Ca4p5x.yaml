@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_vEUdMr
+    name: TestAccResourcePipeline_vEUdMr_updated
     identifier: TestAccResourcePipeline_vEUdMr   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_vEUdMr
