@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_MetquA"
+   name: "TestAccResourceTemplate_OrgScope_MetquA_updated"
    identifier: "TestAccResourceTemplate_OrgScope_MetquA"
    versionLabel: ab
    type: Pipeline
