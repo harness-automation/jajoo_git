@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_WP4DbZ"
+   name: "TestAccResourceTemplate_AccountScopeInline_WP4DbZ_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_WP4DbZ"
    versionLabel: ab
    type: Pipeline
