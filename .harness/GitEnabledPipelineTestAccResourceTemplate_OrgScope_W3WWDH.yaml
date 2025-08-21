@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_W3WWDH"
+   name: "TestAccResourceTemplate_OrgScope_W3WWDH_updated"
    identifier: "TestAccResourceTemplate_OrgScope_W3WWDH"
    versionLabel: ab
    type: Pipeline
