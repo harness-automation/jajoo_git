@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_UROVk3
+    name: TestAccResourcePipeline_UROVk3_updated
     identifier: TestAccResourcePipeline_UROVk3   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_UROVk3
