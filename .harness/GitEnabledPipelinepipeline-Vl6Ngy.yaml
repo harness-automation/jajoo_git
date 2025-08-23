@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_4_OMaC
+    name: TestAccResourcePipeline_4_OMaC_updated
     identifier: TestAccResourcePipeline_4_OMaC   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_4_OMaC
