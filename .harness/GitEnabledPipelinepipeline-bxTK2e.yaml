@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_HAtZNr
+    name: TestAccResourcePipeline_HAtZNr_updated
     identifier: TestAccResourcePipeline_HAtZNr   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_HAtZNr
