@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_HWsfTf
+    name: TestAccResourcePipeline_HWsfTf_updated
     identifier: TestAccResourcePipeline_HWsfTf   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_HWsfTf
