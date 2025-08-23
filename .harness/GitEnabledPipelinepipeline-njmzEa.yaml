@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_O16luL
+    name: TestAccResourcePipeline_O16luL_updated
     identifier: TestAccResourcePipeline_O16luL   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_O16luL
