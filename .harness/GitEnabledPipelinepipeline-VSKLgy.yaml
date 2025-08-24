@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_xGUbJX
+    name: TestAccResourcePipeline_xGUbJX_updated
     identifier: TestAccResourcePipeline_xGUbJX   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_xGUbJX
