@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_WxzSS3
+    name: TestAccResourcePipeline_WxzSS3_updated
     identifier: TestAccResourcePipeline_WxzSS3   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_WxzSS3
