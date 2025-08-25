@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_czLG2I
+    name: TestAccResourcePipeline_czLG2I_updated
     identifier: TestAccResourcePipeline_czLG2I   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_czLG2I
