@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_NoRFNR"
+   name: "TestAccResourceTemplate_OrgScope_NoRFNR_updated"
    identifier: "TestAccResourceTemplate_OrgScope_NoRFNR"
    versionLabel: ab
    type: Pipeline
