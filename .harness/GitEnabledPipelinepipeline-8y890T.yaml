@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_V8Cgkl
+    name: TestAccResourcePipeline_V8Cgkl_updated
     identifier: TestAccResourcePipeline_V8Cgkl   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_V8Cgkl
