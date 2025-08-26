@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_ivgs1M"
+   name: "TestAccResourceTemplate_OrgScope_ivgs1M_updated"
    identifier: "TestAccResourceTemplate_OrgScope_ivgs1M"
    versionLabel: ab
    type: Pipeline
