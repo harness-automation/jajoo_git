@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_5LUPHf
+    name: TestAccResourcePipeline_5LUPHf_updated
     identifier: TestAccResourcePipeline_5LUPHf   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_5LUPHf
