@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_Fgjfui
+    name: TestAccResourcePipeline_Fgjfui_updated
     identifier: TestAccResourcePipeline_Fgjfui   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_Fgjfui
