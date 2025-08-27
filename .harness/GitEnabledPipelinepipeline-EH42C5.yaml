@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_Oeqcmj
+    name: TestAccResourcePipeline_Oeqcmj_updated
     identifier: TestAccResourcePipeline_Oeqcmj   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_Oeqcmj
