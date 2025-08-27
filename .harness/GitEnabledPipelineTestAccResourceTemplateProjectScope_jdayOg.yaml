@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_jdayOg"
+   name: "TestAccResourceTemplateProjectScope_jdayOg_updated"
    identifier: "TestAccResourceTemplateProjectScope_jdayOg"
    versionLabel: ab
    type: Pipeline
