@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_Htc4PC"
+   name: "TestAccResourceTemplate_OrgScope_Htc4PC_updated"
    identifier: "TestAccResourceTemplate_OrgScope_Htc4PC"
    versionLabel: ab
    type: Pipeline
