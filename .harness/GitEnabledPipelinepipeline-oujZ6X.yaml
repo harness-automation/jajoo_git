@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_Dgx9nd
+    name: TestAccResourcePipeline_Dgx9nd_updated
     identifier: TestAccResourcePipeline_Dgx9nd   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_Dgx9nd
