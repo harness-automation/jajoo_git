@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_ngpVWL"
+   name: "TestAccResourceTemplate_AccountScope_ngpVWL_updated"
    identifier: "TestAccResourceTemplate_AccountScope_ngpVWL"
    versionLabel: ab
    type: Pipeline
