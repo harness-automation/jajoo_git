@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_QlLADM"
+   name: "TestAccResourceTemplate_AccountScopeInline_QlLADM_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_QlLADM"
    versionLabel: ab
    type: Pipeline
