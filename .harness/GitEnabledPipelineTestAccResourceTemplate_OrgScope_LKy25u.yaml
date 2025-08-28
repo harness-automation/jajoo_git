@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_LKy25u"
+   name: "TestAccResourceTemplate_OrgScope_LKy25u_updated"
    identifier: "TestAccResourceTemplate_OrgScope_LKy25u"
    versionLabel: ab
    type: Pipeline
