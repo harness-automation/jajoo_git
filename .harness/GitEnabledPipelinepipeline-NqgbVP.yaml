@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_CSKsam
+    name: TestAccResourcePipeline_CSKsam_updated
     identifier: TestAccResourcePipeline_CSKsam   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_CSKsam
