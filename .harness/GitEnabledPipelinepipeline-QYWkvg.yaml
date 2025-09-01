@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_53_4Lq
+    name: TestAccResourcePipeline_53_4Lq_updated
     identifier: TestAccResourcePipeline_53_4Lq   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_53_4Lq
