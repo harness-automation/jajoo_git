@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_OOv12B
+    name: TestAccResourcePipeline_OOv12B_updated
     identifier: TestAccResourcePipeline_OOv12B   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_OOv12B
