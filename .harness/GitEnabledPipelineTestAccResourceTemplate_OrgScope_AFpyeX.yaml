@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_AFpyeX"
+   name: "TestAccResourceTemplate_OrgScope_AFpyeX_updated"
    identifier: "TestAccResourceTemplate_OrgScope_AFpyeX"
    versionLabel: ab
    type: Pipeline
