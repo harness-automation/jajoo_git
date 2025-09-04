@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_PYX5xX
+    name: TestAccResourcePipeline_PYX5xX_updated
     identifier: TestAccResourcePipeline_PYX5xX   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_PYX5xX
