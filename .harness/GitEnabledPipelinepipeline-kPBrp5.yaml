@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_uCbblh
+    name: TestAccResourcePipeline_uCbblh_updated
     identifier: TestAccResourcePipeline_uCbblh   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_uCbblh
