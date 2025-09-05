@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_tOHPmA"
+   name: "TestAccResourceTemplate_AccountScopeInline_tOHPmA_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_tOHPmA"
    versionLabel: ab
    type: Pipeline
