@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_GdOwRC"
+   name: "TestAccResourceTemplateProjectScope_GdOwRC_updated"
    identifier: "TestAccResourceTemplateProjectScope_GdOwRC"
    versionLabel: ab
    type: Pipeline
