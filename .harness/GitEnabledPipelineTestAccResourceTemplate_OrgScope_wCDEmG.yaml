@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_wCDEmG"
+   name: "TestAccResourceTemplate_OrgScope_wCDEmG_updated"
    identifier: "TestAccResourceTemplate_OrgScope_wCDEmG"
    versionLabel: ab
    type: Pipeline
