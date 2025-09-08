@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_aOI4Sd
+    name: TestAccResourcePipeline_aOI4Sd_updated
     identifier: TestAccResourcePipeline_aOI4Sd   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_aOI4Sd
