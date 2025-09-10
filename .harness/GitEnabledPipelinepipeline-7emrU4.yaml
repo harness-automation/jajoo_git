@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_7SNVik
+    name: TestAccResourcePipeline_7SNVik_updated
     identifier: TestAccResourcePipeline_7SNVik   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_7SNVik
