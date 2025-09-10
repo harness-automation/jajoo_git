@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_QxtOT1
+    name: TestAccResourcePipeline_QxtOT1_updated
     identifier: TestAccResourcePipeline_QxtOT1   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_QxtOT1
