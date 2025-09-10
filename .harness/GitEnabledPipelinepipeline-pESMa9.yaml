@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_XnbNQC
+    name: TestAccResourcePipeline_XnbNQC_updated
     identifier: TestAccResourcePipeline_XnbNQC   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_XnbNQC
