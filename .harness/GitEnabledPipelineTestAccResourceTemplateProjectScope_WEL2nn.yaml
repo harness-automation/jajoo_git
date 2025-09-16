@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_WEL2nn"
+   name: "TestAccResourceTemplateProjectScope_WEL2nn_updated"
    identifier: "TestAccResourceTemplateProjectScope_WEL2nn"
    versionLabel: ab
    type: Pipeline
