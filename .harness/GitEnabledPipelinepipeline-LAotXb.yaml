@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_QgrRGg
+    name: TestAccResourcePipeline_QgrRGg_updated
     identifier: TestAccResourcePipeline_QgrRGg   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_QgrRGg
