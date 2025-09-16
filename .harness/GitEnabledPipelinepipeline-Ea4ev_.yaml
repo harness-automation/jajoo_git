@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_86gmxn
+    name: TestAccResourcePipeline_86gmxn_updated
     identifier: TestAccResourcePipeline_86gmxn   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_86gmxn
