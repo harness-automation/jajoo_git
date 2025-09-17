@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_wb568w
+    name: TestAccResourcePipeline_wb568w_updated
     identifier: TestAccResourcePipeline_wb568w   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_wb568w
