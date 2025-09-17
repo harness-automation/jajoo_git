@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_NQSqpp
+    name: TestAccResourcePipeline_NQSqpp_updated
     identifier: TestAccResourcePipeline_NQSqpp   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_NQSqpp
