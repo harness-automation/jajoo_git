@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_HMLlwt
+    name: TestAccResourcePipeline_HMLlwt_updated
     identifier: TestAccResourcePipeline_HMLlwt   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_HMLlwt
