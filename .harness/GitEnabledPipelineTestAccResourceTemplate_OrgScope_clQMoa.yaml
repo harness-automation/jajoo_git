@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_clQMoa"
+   name: "TestAccResourceTemplate_OrgScope_clQMoa_updated"
    identifier: "TestAccResourceTemplate_OrgScope_clQMoa"
    versionLabel: ab
    type: Pipeline
