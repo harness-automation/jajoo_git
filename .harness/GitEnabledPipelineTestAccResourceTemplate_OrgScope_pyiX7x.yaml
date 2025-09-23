@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_pyiX7x"
+   name: "TestAccResourceTemplate_OrgScope_pyiX7x_updated"
    identifier: "TestAccResourceTemplate_OrgScope_pyiX7x"
    versionLabel: ab
    type: Pipeline
