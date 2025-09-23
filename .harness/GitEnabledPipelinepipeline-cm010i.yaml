@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_ULYRU9
+    name: TestAccResourcePipeline_ULYRU9_updated
     identifier: TestAccResourcePipeline_ULYRU9   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_ULYRU9
