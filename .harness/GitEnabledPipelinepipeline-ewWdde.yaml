@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_DuTIK6
+    name: TestAccResourcePipeline_DuTIK6_updated
     identifier: TestAccResourcePipeline_DuTIK6   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_DuTIK6
