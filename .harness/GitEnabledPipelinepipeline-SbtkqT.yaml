@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_NeFCYp
+    name: TestAccResourcePipeline_NeFCYp_updated
     identifier: TestAccResourcePipeline_NeFCYp   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_NeFCYp
