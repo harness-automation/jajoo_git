@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_ceEMg4
+    name: TestAccResourcePipeline_ceEMg4_updated
     identifier: TestAccResourcePipeline_ceEMg4   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_ceEMg4
