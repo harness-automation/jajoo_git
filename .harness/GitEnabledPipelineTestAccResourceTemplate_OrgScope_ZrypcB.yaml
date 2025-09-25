@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_ZrypcB"
+   name: "TestAccResourceTemplate_OrgScope_ZrypcB_updated"
    identifier: "TestAccResourceTemplate_OrgScope_ZrypcB"
    versionLabel: ab
    type: Pipeline
