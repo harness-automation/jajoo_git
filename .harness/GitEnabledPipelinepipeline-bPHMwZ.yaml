@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_YgPbqL
+    name: TestAccResourcePipeline_YgPbqL_updated
     identifier: TestAccResourcePipeline_YgPbqL   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_YgPbqL
