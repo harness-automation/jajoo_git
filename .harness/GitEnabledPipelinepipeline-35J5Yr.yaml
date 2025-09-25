@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_jSKpiH
+    name: TestAccResourcePipeline_jSKpiH_updated
     identifier: TestAccResourcePipeline_jSKpiH   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_jSKpiH
