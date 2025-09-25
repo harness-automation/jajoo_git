@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_ZCELr4"
+   name: "TestAccResourceTemplate_AccountScope_ZCELr4_updated"
    identifier: "TestAccResourceTemplate_AccountScope_ZCELr4"
    versionLabel: ab
    type: Pipeline
