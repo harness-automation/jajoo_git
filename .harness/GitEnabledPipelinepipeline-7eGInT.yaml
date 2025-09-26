@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_uAWM4T
+    name: TestAccResourcePipeline_uAWM4T_updated
     identifier: TestAccResourcePipeline_uAWM4T   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_uAWM4T
