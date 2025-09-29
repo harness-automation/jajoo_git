@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_reDbnd"
+   name: "TestAccResourceTemplateProjectScope_reDbnd_updated"
    identifier: "TestAccResourceTemplateProjectScope_reDbnd"
    versionLabel: ab
    type: Pipeline
