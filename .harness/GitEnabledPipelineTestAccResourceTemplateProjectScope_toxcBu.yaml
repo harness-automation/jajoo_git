@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_toxcBu"
+   name: "TestAccResourceTemplateProjectScope_toxcBu_updated"
    identifier: "TestAccResourceTemplateProjectScope_toxcBu"
    versionLabel: ab
    type: Pipeline
