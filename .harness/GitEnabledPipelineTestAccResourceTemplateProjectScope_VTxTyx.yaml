@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_VTxTyx"
+   name: "TestAccResourceTemplateProjectScope_VTxTyx_updated"
    identifier: "TestAccResourceTemplateProjectScope_VTxTyx"
    versionLabel: ab
    type: Pipeline
