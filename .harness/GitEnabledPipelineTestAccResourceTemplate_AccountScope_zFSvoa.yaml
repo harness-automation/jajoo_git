@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_zFSvoa"
+   name: "TestAccResourceTemplate_AccountScope_zFSvoa_updated"
    identifier: "TestAccResourceTemplate_AccountScope_zFSvoa"
    versionLabel: ab
    type: Pipeline
