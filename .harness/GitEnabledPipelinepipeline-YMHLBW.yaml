@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline__TptdX
+    name: TestAccResourcePipeline__TptdX_updated
     identifier: TestAccResourcePipeline__TptdX   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline__TptdX
