@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_zTJ55a
+    name: TestAccResourcePipeline_zTJ55a_updated
     identifier: TestAccResourcePipeline_zTJ55a   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_zTJ55a
