@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_B1N70M
+    name: TestAccResourcePipeline_B1N70M_updated
     identifier: TestAccResourcePipeline_B1N70M   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_B1N70M
