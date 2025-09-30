@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_DdB6PD
+    name: TestAccResourcePipeline_DdB6PD_updated
     identifier: TestAccResourcePipeline_DdB6PD   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_DdB6PD
