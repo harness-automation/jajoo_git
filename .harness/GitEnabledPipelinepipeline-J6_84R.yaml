@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_Jinf20
+    name: TestAccResourcePipeline_Jinf20_updated
     identifier: TestAccResourcePipeline_Jinf20   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_Jinf20
