@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_XF4UoN"
+   name: "TestAccResourceTemplate_AccountScope_XF4UoN_updated"
    identifier: "TestAccResourceTemplate_AccountScope_XF4UoN"
    versionLabel: ab
    type: Pipeline
