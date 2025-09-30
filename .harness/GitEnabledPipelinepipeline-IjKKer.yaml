@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_2dZYFX
+    name: TestAccResourcePipeline_2dZYFX_updated
     identifier: TestAccResourcePipeline_2dZYFX   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_2dZYFX
