@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_zGEZOz
+    name: TestAccResourcePipeline_zGEZOz_updated
     identifier: TestAccResourcePipeline_zGEZOz   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_zGEZOz
