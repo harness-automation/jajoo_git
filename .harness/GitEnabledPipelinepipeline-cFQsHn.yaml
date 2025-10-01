@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_PYqSse
+    name: TestAccResourcePipeline_PYqSse_updated
     identifier: TestAccResourcePipeline_PYqSse   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_PYqSse
