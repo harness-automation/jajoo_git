@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_IdX45s
+    name: TestAccResourcePipeline_IdX45s_updated
     identifier: TestAccResourcePipeline_IdX45s   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_IdX45s
