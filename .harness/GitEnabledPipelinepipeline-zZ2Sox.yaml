@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_3D96HZ
+    name: TestAccResourcePipeline_3D96HZ_updated
     identifier: TestAccResourcePipeline_3D96HZ   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_3D96HZ
