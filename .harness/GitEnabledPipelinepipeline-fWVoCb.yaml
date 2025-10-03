@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_Mx7P3n
+    name: TestAccResourcePipeline_Mx7P3n_updated
     identifier: TestAccResourcePipeline_Mx7P3n   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_Mx7P3n
