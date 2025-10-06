@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_MLOXlb"
+   name: "TestAccResourceTemplate_AccountScopeInline_MLOXlb_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_MLOXlb"
    versionLabel: ab
    type: Pipeline
