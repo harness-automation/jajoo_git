@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_BLSybc
+    name: TestAccResourcePipeline_BLSybc_updated
     identifier: TestAccResourcePipeline_BLSybc   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_BLSybc
