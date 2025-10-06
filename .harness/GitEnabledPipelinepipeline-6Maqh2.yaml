@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_UZerm3
+    name: TestAccResourcePipeline_UZerm3_updated
     identifier: TestAccResourcePipeline_UZerm3   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_UZerm3
