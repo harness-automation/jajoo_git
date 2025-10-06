@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_YaXMmt"
+   name: "TestAccResourceTemplate_OrgScope_YaXMmt_updated"
    identifier: "TestAccResourceTemplate_OrgScope_YaXMmt"
    versionLabel: ab
    type: Pipeline
