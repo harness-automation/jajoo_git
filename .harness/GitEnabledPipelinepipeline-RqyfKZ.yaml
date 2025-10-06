@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_W9koSD
+    name: TestAccResourcePipeline_W9koSD_updated
     identifier: TestAccResourcePipeline_W9koSD   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_W9koSD
