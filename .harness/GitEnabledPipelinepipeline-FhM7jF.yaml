@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline__2PshG
+    name: TestAccResourcePipeline__2PshG_updated
     identifier: TestAccResourcePipeline__2PshG   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline__2PshG
