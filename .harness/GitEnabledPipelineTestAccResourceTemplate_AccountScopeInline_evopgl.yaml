@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_evopgl"
+   name: "TestAccResourceTemplate_AccountScopeInline_evopgl_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_evopgl"
    versionLabel: ab
    type: Pipeline
