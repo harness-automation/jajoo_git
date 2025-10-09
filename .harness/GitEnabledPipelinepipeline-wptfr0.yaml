@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_WVuTAM
+    name: TestAccResourcePipeline_WVuTAM_updated
     identifier: TestAccResourcePipeline_WVuTAM   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_WVuTAM
