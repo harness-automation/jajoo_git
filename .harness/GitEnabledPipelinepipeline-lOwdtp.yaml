@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_tlWBhP
+    name: TestAccResourcePipeline_tlWBhP_updated
     identifier: TestAccResourcePipeline_tlWBhP   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_tlWBhP
