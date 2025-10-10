@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_EcHdaP
+    name: TestAccResourcePipeline_EcHdaP_updated
     identifier: TestAccResourcePipeline_EcHdaP   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_EcHdaP
