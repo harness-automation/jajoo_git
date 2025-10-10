@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_lUBYaB
+    name: TestAccResourcePipeline_lUBYaB_updated
     identifier: TestAccResourcePipeline_lUBYaB   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_lUBYaB
