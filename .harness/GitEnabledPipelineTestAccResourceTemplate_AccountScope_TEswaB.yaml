@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_TEswaB"
+   name: "TestAccResourceTemplate_AccountScope_TEswaB_updated"
    identifier: "TestAccResourceTemplate_AccountScope_TEswaB"
    versionLabel: ab
    type: Pipeline
