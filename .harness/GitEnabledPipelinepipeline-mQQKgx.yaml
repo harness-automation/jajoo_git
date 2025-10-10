@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_AvotqB
+    name: TestAccResourcePipeline_AvotqB_updated
     identifier: TestAccResourcePipeline_AvotqB   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_AvotqB
