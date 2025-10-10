@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_ksfgPj
+    name: TestAccResourcePipeline_ksfgPj_updated
     identifier: TestAccResourcePipeline_ksfgPj   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_ksfgPj
