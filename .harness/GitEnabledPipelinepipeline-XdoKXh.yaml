@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_Ytvb1g
+    name: TestAccResourcePipeline_Ytvb1g_updated
     identifier: TestAccResourcePipeline_Ytvb1g   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_Ytvb1g
