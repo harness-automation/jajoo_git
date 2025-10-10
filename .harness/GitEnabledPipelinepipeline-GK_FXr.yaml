@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_cym7ZA
+    name: TestAccResourcePipeline_cym7ZA_updated
     identifier: TestAccResourcePipeline_cym7ZA   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_cym7ZA
