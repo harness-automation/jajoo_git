@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_2953Zb
+    name: TestAccResourcePipeline_2953Zb_updated
     identifier: TestAccResourcePipeline_2953Zb   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_2953Zb
