@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_rhUR42"
+   name: "TestAccResourceTemplateProjectScope_rhUR42_updated"
    identifier: "TestAccResourceTemplateProjectScope_rhUR42"
    versionLabel: ab
    type: Pipeline
