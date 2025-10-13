@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_mVoHL8
+    name: TestAccResourcePipeline_mVoHL8_updated
     identifier: TestAccResourcePipeline_mVoHL8   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_mVoHL8
