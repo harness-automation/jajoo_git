@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_G1NvJW
+    name: TestAccResourcePipeline_G1NvJW_updated
     identifier: TestAccResourcePipeline_G1NvJW   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_G1NvJW
