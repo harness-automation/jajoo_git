@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_XFTExd"
+   name: "TestAccResourceTemplate_OrgScope_XFTExd_updated"
    identifier: "TestAccResourceTemplate_OrgScope_XFTExd"
    versionLabel: ab
    type: Pipeline
