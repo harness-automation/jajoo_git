@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_JPe33T"
+   name: "TestAccResourceTemplate_OrgScope_JPe33T_updated"
    identifier: "TestAccResourceTemplate_OrgScope_JPe33T"
    versionLabel: ab
    type: Pipeline
