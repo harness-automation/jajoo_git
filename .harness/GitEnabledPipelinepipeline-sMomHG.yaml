@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_oTytiw
+    name: TestAccResourcePipeline_oTytiw_updated
     identifier: TestAccResourcePipeline_oTytiw   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_oTytiw
