@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_iHEXDC"
+   name: "TestAccResourceTemplate_OrgScope_iHEXDC_updated"
    identifier: "TestAccResourceTemplate_OrgScope_iHEXDC"
    versionLabel: ab
    type: Pipeline
