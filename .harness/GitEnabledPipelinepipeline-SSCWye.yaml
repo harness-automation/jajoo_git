@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_WcrCB5
+    name: TestAccResourcePipeline_WcrCB5_updated
     identifier: TestAccResourcePipeline_WcrCB5   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_WcrCB5
