@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_dDalju"
+   name: "TestAccResourceTemplate_OrgScope_dDalju_updated"
    identifier: "TestAccResourceTemplate_OrgScope_dDalju"
    versionLabel: ab
    type: Pipeline
