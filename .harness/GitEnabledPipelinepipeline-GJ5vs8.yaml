@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_N_ZiBT
+    name: TestAccResourcePipeline_N_ZiBT_updated
     identifier: TestAccResourcePipeline_N_ZiBT   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_N_ZiBT
