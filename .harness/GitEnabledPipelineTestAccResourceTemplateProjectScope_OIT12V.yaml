@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_OIT12V"
+   name: "TestAccResourceTemplateProjectScope_OIT12V_updated"
    identifier: "TestAccResourceTemplateProjectScope_OIT12V"
    versionLabel: ab
    type: Pipeline
