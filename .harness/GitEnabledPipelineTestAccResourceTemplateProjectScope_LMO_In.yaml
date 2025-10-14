@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_LMO_In"
+   name: "TestAccResourceTemplateProjectScope_LMO_In_updated"
    identifier: "TestAccResourceTemplateProjectScope_LMO_In"
    versionLabel: ab
    type: Pipeline
