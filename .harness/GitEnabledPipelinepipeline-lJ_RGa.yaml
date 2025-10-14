@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_RXmqOQ
+    name: TestAccResourcePipeline_RXmqOQ_updated
     identifier: TestAccResourcePipeline_RXmqOQ   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_RXmqOQ
