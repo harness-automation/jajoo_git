@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_45gaPo"
+   name: "TestAccResourceTemplate_OrgScope_45gaPo_updated"
    identifier: "TestAccResourceTemplate_OrgScope_45gaPo"
    versionLabel: ab
    type: Pipeline
