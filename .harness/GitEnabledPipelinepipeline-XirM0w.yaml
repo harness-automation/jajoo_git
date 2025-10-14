@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_fuVc9z
+    name: TestAccResourcePipeline_fuVc9z_updated
     identifier: TestAccResourcePipeline_fuVc9z   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_fuVc9z
