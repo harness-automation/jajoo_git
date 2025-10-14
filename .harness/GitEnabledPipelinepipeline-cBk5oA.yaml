@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline__StrVV
+    name: TestAccResourcePipeline__StrVV_updated
     identifier: TestAccResourcePipeline__StrVV   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline__StrVV
