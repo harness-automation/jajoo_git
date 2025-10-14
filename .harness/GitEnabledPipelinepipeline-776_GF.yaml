@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_EUpXi_
+    name: TestAccResourcePipeline_EUpXi__updated
     identifier: TestAccResourcePipeline_EUpXi_   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_EUpXi_
