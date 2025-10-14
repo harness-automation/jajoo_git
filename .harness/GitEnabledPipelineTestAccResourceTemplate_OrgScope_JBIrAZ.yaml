@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_JBIrAZ"
+   name: "TestAccResourceTemplate_OrgScope_JBIrAZ_updated"
    identifier: "TestAccResourceTemplate_OrgScope_JBIrAZ"
    versionLabel: ab
    type: Pipeline
