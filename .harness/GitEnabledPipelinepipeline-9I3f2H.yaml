@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_1CBmH6
+    name: TestAccResourcePipeline_1CBmH6_updated
     identifier: TestAccResourcePipeline_1CBmH6   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_1CBmH6
