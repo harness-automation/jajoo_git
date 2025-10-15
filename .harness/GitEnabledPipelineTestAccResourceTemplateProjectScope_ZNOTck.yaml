@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_ZNOTck"
+   name: "TestAccResourceTemplateProjectScope_ZNOTck_updated"
    identifier: "TestAccResourceTemplateProjectScope_ZNOTck"
    versionLabel: ab
    type: Pipeline
