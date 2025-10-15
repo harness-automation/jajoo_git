@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_CSEzOQ
+    name: TestAccResourcePipeline_CSEzOQ_updated
     identifier: TestAccResourcePipeline_CSEzOQ   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_CSEzOQ
