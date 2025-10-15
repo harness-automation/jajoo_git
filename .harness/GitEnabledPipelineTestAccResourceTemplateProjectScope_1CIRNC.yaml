@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_1CIRNC"
+   name: "TestAccResourceTemplateProjectScope_1CIRNC_updated"
    identifier: "TestAccResourceTemplateProjectScope_1CIRNC"
    versionLabel: ab
    type: Pipeline
