@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_1o_gfE
+    name: TestAccResourcePipeline_1o_gfE_updated
     identifier: TestAccResourcePipeline_1o_gfE   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_1o_gfE
