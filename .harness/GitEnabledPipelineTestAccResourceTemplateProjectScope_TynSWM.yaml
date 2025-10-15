@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_TynSWM"
+   name: "TestAccResourceTemplateProjectScope_TynSWM_updated"
    identifier: "TestAccResourceTemplateProjectScope_TynSWM"
    versionLabel: ab
    type: Pipeline
