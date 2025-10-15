@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_v_PwID"
+   name: "TestAccResourceTemplate_OrgScope_v_PwID_updated"
    identifier: "TestAccResourceTemplate_OrgScope_v_PwID"
    versionLabel: ab
    type: Pipeline
