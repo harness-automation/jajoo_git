@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_FkiCip"
+   name: "TestAccResourceTemplate_OrgScope_FkiCip_updated"
    identifier: "TestAccResourceTemplate_OrgScope_FkiCip"
    versionLabel: ab
    type: Pipeline
