@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_CDoYae"
+   name: "TestAccResourceTemplate_OrgScope_CDoYae_updated"
    identifier: "TestAccResourceTemplate_OrgScope_CDoYae"
    versionLabel: ab
    type: Pipeline
