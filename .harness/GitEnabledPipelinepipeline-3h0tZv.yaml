@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_ib0KPb
+    name: TestAccResourcePipeline_ib0KPb_updated
     identifier: TestAccResourcePipeline_ib0KPb   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_ib0KPb
