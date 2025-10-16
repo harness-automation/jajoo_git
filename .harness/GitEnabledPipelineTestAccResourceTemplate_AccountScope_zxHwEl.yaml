@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_zxHwEl"
+   name: "TestAccResourceTemplate_AccountScope_zxHwEl_updated"
    identifier: "TestAccResourceTemplate_AccountScope_zxHwEl"
    versionLabel: ab
    type: Pipeline
