@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope__YwTaT"
+   name: "TestAccResourceTemplate_OrgScope__YwTaT_updated"
    identifier: "TestAccResourceTemplate_OrgScope__YwTaT"
    versionLabel: ab
    type: Pipeline
