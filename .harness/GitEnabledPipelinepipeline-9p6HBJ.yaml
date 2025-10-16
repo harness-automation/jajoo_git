@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_clMzXd
+    name: TestAccResourcePipeline_clMzXd_updated
     identifier: TestAccResourcePipeline_clMzXd   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_clMzXd
