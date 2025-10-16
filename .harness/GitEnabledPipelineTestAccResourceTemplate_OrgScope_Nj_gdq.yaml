@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_Nj_gdq"
+   name: "TestAccResourceTemplate_OrgScope_Nj_gdq_updated"
    identifier: "TestAccResourceTemplate_OrgScope_Nj_gdq"
    versionLabel: ab
    type: Pipeline
