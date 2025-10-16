@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_RPhvfA
+    name: TestAccResourcePipeline_RPhvfA_updated
     identifier: TestAccResourcePipeline_RPhvfA   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_RPhvfA
