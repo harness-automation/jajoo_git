@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_MtHz2x"
+   name: "TestAccResourceTemplateProjectScope_MtHz2x_updated"
    identifier: "TestAccResourceTemplateProjectScope_MtHz2x"
    versionLabel: ab
    type: Pipeline
