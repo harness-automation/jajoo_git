@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_rkB_ZR"
+   name: "TestAccResourceTemplate_AccountScope_rkB_ZR_updated"
    identifier: "TestAccResourceTemplate_AccountScope_rkB_ZR"
    versionLabel: ab
    type: Pipeline
