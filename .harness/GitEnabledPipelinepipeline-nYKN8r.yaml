@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_ZU2TLO
+    name: TestAccResourcePipeline_ZU2TLO_updated
     identifier: TestAccResourcePipeline_ZU2TLO   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_ZU2TLO
