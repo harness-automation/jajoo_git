@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_KJeqMd"
+   name: "TestAccResourceTemplate_OrgScope_KJeqMd_updated"
    identifier: "TestAccResourceTemplate_OrgScope_KJeqMd"
    versionLabel: ab
    type: Pipeline
