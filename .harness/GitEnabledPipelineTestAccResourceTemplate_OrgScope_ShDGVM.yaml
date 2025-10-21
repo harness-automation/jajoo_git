@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_ShDGVM"
+   name: "TestAccResourceTemplate_OrgScope_ShDGVM_updated"
    identifier: "TestAccResourceTemplate_OrgScope_ShDGVM"
    versionLabel: ab
    type: Pipeline
