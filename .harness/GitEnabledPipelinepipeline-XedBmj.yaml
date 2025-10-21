@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_vllBOu
+    name: TestAccResourcePipeline_vllBOu_updated
     identifier: TestAccResourcePipeline_vllBOu   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_vllBOu
