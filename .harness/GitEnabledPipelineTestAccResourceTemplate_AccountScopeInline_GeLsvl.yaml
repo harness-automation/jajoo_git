@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_GeLsvl"
+   name: "TestAccResourceTemplate_AccountScopeInline_GeLsvl_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_GeLsvl"
    versionLabel: ab
    type: Pipeline
