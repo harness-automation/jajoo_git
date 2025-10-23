@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_pikvAW"
+   name: "TestAccResourceTemplate_AccountScopeInline_pikvAW_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_pikvAW"
    versionLabel: ab
    type: Pipeline
