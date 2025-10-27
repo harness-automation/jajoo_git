@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_8GPVRo
+    name: TestAccResourcePipeline_8GPVRo_updated
     identifier: TestAccResourcePipeline_8GPVRo   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_8GPVRo
