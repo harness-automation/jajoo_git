@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_fkUNN8
+    name: TestAccResourcePipeline_fkUNN8_updated
     identifier: TestAccResourcePipeline_fkUNN8   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_fkUNN8
