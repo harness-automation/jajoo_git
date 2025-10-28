@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_T4_FOb
+    name: TestAccResourcePipeline_T4_FOb_updated
     identifier: TestAccResourcePipeline_T4_FOb   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_T4_FOb
