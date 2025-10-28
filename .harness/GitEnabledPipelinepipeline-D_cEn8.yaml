@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_keJaQu
+    name: TestAccResourcePipeline_keJaQu_updated
     identifier: TestAccResourcePipeline_keJaQu   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_keJaQu
