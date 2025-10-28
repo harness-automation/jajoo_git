@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_iwDsr7
+    name: TestAccResourcePipeline_iwDsr7_updated
     identifier: TestAccResourcePipeline_iwDsr7   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_iwDsr7
