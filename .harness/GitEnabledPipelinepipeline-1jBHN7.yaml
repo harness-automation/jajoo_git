@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_JKMuFW
+    name: TestAccResourcePipeline_JKMuFW_updated
     identifier: TestAccResourcePipeline_JKMuFW   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_JKMuFW
