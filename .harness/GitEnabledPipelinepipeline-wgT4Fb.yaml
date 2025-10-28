@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_bf2Trg
+    name: TestAccResourcePipeline_bf2Trg_updated
     identifier: TestAccResourcePipeline_bf2Trg   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_bf2Trg
