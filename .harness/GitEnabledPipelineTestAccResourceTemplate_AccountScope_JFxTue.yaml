@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_JFxTue"
+   name: "TestAccResourceTemplate_AccountScope_JFxTue_updated"
    identifier: "TestAccResourceTemplate_AccountScope_JFxTue"
    versionLabel: ab
    type: Pipeline
