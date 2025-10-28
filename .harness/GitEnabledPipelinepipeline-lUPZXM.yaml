@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_kuSWM4
+    name: TestAccResourcePipeline_kuSWM4_updated
     identifier: TestAccResourcePipeline_kuSWM4   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_kuSWM4
