@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_VrLsbO
+    name: TestAccResourcePipeline_VrLsbO_updated
     identifier: TestAccResourcePipeline_VrLsbO   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_VrLsbO
