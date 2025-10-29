@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_Kv44ki
+    name: TestAccResourcePipeline_Kv44ki_updated
     identifier: TestAccResourcePipeline_Kv44ki   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_Kv44ki
