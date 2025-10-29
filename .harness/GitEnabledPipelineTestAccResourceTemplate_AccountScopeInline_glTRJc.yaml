@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_glTRJc"
+   name: "TestAccResourceTemplate_AccountScopeInline_glTRJc_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_glTRJc"
    versionLabel: ab
    type: Pipeline
