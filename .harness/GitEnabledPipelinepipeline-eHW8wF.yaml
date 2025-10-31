@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_8Gxi29
+    name: TestAccResourcePipeline_8Gxi29_updated
     identifier: TestAccResourcePipeline_8Gxi29   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_8Gxi29
