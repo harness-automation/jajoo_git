@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_apArEB"
+   name: "TestAccResourceTemplateProjectScope_apArEB_updated"
    identifier: "TestAccResourceTemplateProjectScope_apArEB"
    versionLabel: ab
    type: Pipeline
