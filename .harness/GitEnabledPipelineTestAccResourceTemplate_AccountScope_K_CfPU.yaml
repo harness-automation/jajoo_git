@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_K_CfPU"
+   name: "TestAccResourceTemplate_AccountScope_K_CfPU_updated"
    identifier: "TestAccResourceTemplate_AccountScope_K_CfPU"
    versionLabel: ab
    type: Pipeline
