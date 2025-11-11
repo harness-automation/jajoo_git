@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_Gsbj5g
+    name: TestAccResourcePipeline_Gsbj5g_updated
     identifier: TestAccResourcePipeline_Gsbj5g   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_Gsbj5g
