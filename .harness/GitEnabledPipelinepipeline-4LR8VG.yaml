@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_YuSqWC
+    name: TestAccResourcePipeline_YuSqWC_updated
     identifier: TestAccResourcePipeline_YuSqWC   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_YuSqWC
