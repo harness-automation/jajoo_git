@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_puInjE"
+   name: "TestAccResourceTemplate_OrgScope_puInjE_updated"
    identifier: "TestAccResourceTemplate_OrgScope_puInjE"
    versionLabel: ab
    type: Pipeline
