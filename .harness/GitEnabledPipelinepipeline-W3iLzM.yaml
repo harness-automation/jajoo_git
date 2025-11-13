@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_XlGQWr
+    name: TestAccResourcePipeline_XlGQWr_updated
     identifier: TestAccResourcePipeline_XlGQWr   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_XlGQWr
