@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_yabgeR"
+   name: "TestAccResourceTemplate_AccountScope_yabgeR_updated"
    identifier: "TestAccResourceTemplate_AccountScope_yabgeR"
    versionLabel: ab
    type: Pipeline
