@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_OHOWmX
+    name: TestAccResourcePipeline_OHOWmX_updated
     identifier: TestAccResourcePipeline_OHOWmX   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_OHOWmX
