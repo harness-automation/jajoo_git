@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_qLmEBV
+    name: TestAccResourcePipeline_qLmEBV_updated
     identifier: TestAccResourcePipeline_qLmEBV   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_qLmEBV
