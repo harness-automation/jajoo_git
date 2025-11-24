@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_aKeckM
+    name: TestAccResourcePipeline_aKeckM_updated
     identifier: TestAccResourcePipeline_aKeckM   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_aKeckM
