@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_7kNfnv
+    name: TestAccResourcePipeline_7kNfnv_updated
     identifier: TestAccResourcePipeline_7kNfnv   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_7kNfnv
