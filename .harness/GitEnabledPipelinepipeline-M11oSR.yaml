@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_KyLr0S
+    name: TestAccResourcePipeline_KyLr0S_updated
     identifier: TestAccResourcePipeline_KyLr0S   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_KyLr0S
