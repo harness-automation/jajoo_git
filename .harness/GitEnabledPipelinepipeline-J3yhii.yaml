@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_DjNzqn
+    name: TestAccResourcePipeline_DjNzqn_updated
     identifier: TestAccResourcePipeline_DjNzqn   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_DjNzqn
