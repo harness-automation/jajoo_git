@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_Okv_UC"
+   name: "TestAccResourceTemplateProjectScope_Okv_UC_updated"
    identifier: "TestAccResourceTemplateProjectScope_Okv_UC"
    versionLabel: ab
    type: Pipeline
