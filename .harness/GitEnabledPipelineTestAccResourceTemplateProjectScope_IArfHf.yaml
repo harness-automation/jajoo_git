@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_IArfHf"
+   name: "TestAccResourceTemplateProjectScope_IArfHf_updated"
    identifier: "TestAccResourceTemplateProjectScope_IArfHf"
    versionLabel: ab
    type: Pipeline
