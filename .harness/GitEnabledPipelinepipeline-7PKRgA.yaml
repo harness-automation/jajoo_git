@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_QNScxS
+    name: TestAccResourcePipeline_QNScxS_updated
     identifier: TestAccResourcePipeline_QNScxS   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_QNScxS
