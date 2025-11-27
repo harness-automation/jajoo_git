@@ -1,0 +1,52 @@
+template:
+   name: "TestAccDataSourceTemplateProjectScope_VneVmA"
+   identifier: "TestAccDataSourceTemplateProjectScope_VneVmA"
+   versionLabel: ab
+   type: Pipeline
+   projectIdentifier: TestAccDataSourceTemplateProjectScope_VneVmA
+   orgIdentifier: TestAccDataSourceTemplateProjectScope_VneVmA
+   tags: {}
+   spec:
+     stages:
+       - stage:
+           name: dvvdvd
+           identifier: dvvdvd
+           description: ""
+           type: Deployment
+           spec:
+             deploymentType: Kubernetes
+             service:
+               serviceRef: <+input>
+               serviceInputs: <+input>
+             environment:
+               environmentRef: <+input>
+               deployToAll: false
+               environmentInputs: <+input>
+               serviceOverrideInputs: <+input>
+               infrastructureDefinitions: <+input>
+             execution:
+               steps:
+                 - step:
+                     name: Rollout Deployment
+                     identifier: rolloutDeployment
+                     type: K8sRollingDeploy
+                     timeout: 10m
+                     spec:
+                       skipDryRun: false
+                       pruningEnabled: false
+               rollbackSteps:
+                 - step:
+                     name: Rollback Rollout Deployment
+                     identifier: rollbackRolloutDeployment
+                     type: K8sRollingRollback
+                     timeout: 10m
+                     spec:
+                       pruningEnabled: false
+           tags: {}
+           failureStrategies:
+             - onFailure:
+                 errors:
+                   - AllErrors
+                 action:
+                   type: StageRollback
+    
