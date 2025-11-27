@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline__kna9X
+    name: TestAccResourcePipeline__kna9X_updated
     identifier: TestAccResourcePipeline__kna9X   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline__kna9X
