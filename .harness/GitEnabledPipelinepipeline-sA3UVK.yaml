@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_patoCl
+    name: TestAccResourcePipeline_patoCl_updated
     identifier: TestAccResourcePipeline_patoCl   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_patoCl
