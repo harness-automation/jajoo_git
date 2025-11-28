@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_S4bsc8
+    name: TestAccResourcePipeline_S4bsc8_updated
     identifier: TestAccResourcePipeline_S4bsc8   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_S4bsc8
