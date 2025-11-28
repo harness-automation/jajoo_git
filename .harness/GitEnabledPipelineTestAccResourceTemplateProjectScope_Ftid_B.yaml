@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_Ftid_B"
+   name: "TestAccResourceTemplateProjectScope_Ftid_B_updated"
    identifier: "TestAccResourceTemplateProjectScope_Ftid_B"
    versionLabel: ab
    type: Pipeline
