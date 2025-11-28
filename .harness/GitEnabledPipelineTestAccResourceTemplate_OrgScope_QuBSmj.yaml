@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_QuBSmj"
+   name: "TestAccResourceTemplate_OrgScope_QuBSmj_updated"
    identifier: "TestAccResourceTemplate_OrgScope_QuBSmj"
    versionLabel: ab
    type: Pipeline
