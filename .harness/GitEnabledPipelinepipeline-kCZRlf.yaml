@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_Hiezl3
+    name: TestAccResourcePipeline_Hiezl3_updated
     identifier: TestAccResourcePipeline_Hiezl3   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_Hiezl3
