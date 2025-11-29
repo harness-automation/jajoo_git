@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_INtBve
+    name: TestAccResourcePipeline_INtBve_updated
     identifier: TestAccResourcePipeline_INtBve   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_INtBve
