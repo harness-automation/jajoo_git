@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_XHmvPX
+    name: TestAccResourcePipeline_XHmvPX_updated
     identifier: TestAccResourcePipeline_XHmvPX   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_XHmvPX
