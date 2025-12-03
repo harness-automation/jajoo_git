@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_LJ_2_z
+    name: TestAccResourcePipeline_LJ_2_z_updated
     identifier: TestAccResourcePipeline_LJ_2_z   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_LJ_2_z
