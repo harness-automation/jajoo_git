@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_YYyh9Y
+    name: TestAccResourcePipeline_YYyh9Y_updated
     identifier: TestAccResourcePipeline_YYyh9Y   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_YYyh9Y
