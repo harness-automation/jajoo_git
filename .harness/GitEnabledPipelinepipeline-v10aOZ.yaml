@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_JGxjAB
+    name: TestAccResourcePipeline_JGxjAB_updated
     identifier: TestAccResourcePipeline_JGxjAB   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_JGxjAB
