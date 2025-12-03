@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_VfHDlq
+    name: TestAccResourcePipeline_VfHDlq_updated
     identifier: TestAccResourcePipeline_VfHDlq   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_VfHDlq
