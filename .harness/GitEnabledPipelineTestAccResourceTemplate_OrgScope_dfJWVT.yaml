@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_dfJWVT"
+   name: "TestAccResourceTemplate_OrgScope_dfJWVT_updated"
    identifier: "TestAccResourceTemplate_OrgScope_dfJWVT"
    versionLabel: ab
    type: Pipeline
