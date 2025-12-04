@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_eTSPre"
+   name: "TestAccResourceTemplateProjectScope_eTSPre_updated"
    identifier: "TestAccResourceTemplateProjectScope_eTSPre"
    versionLabel: ab
    type: Pipeline
