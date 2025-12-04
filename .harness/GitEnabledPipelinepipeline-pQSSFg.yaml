@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_CEUgmE
+    name: TestAccResourcePipeline_CEUgmE_updated
     identifier: TestAccResourcePipeline_CEUgmE   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_CEUgmE
