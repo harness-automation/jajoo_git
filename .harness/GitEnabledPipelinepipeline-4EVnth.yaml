@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_OdmEvc
+    name: TestAccResourcePipeline_OdmEvc_updated
     identifier: TestAccResourcePipeline_OdmEvc   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_OdmEvc
