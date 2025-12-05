@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_oLjE2O
+    name: TestAccResourcePipeline_oLjE2O_updated
     identifier: TestAccResourcePipeline_oLjE2O   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_oLjE2O
