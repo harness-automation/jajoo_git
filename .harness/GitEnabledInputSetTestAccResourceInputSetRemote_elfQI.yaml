@@ -1,0 +1,13 @@
+inputSet:
+  identifier: "TestAccResourceInputSetRemote_elfQI"
+  name: "TestAccResourceInputSetRemote"
+  tags:
+    foo: "bar"
+  orgIdentifier: "TestAccResourceInputSetRemote_elfQI"
+  projectIdentifier: "TestAccResourceInputSetRemote_elfQI"
+  pipeline:
+    identifier: "TestAccResourceInputSetRemote_elfQI"
+    variables:
+    - name: "key"
+      type: "String"
+      value: "value"
