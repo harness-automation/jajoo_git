@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_UdQ1VL
+    name: TestAccResourcePipeline_UdQ1VL_updated
     identifier: TestAccResourcePipeline_UdQ1VL   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_UdQ1VL
