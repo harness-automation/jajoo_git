@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_LyxihC
+    name: TestAccResourcePipeline_LyxihC_updated
     identifier: TestAccResourcePipeline_LyxihC   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_LyxihC
