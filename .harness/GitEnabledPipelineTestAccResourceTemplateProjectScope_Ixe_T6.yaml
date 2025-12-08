@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_Ixe_T6"
+   name: "TestAccResourceTemplateProjectScope_Ixe_T6_updated"
    identifier: "TestAccResourceTemplateProjectScope_Ixe_T6"
    versionLabel: ab
    type: Pipeline
