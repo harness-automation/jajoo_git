@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_oDdFDd
+    name: TestAccResourcePipeline_oDdFDd_updated
     identifier: TestAccResourcePipeline_oDdFDd   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_oDdFDd
