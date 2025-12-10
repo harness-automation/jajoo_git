@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_goKOic
+    name: TestAccResourcePipeline_goKOic_updated
     identifier: TestAccResourcePipeline_goKOic   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_goKOic
