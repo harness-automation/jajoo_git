@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_pyGlLO"
+   name: "TestAccResourceTemplateProjectScope_pyGlLO_updated"
    identifier: "TestAccResourceTemplateProjectScope_pyGlLO"
    versionLabel: ab
    type: Pipeline
