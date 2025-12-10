@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_hrUBTj
+    name: TestAccResourcePipeline_hrUBTj_updated
     identifier: TestAccResourcePipeline_hrUBTj   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_hrUBTj
