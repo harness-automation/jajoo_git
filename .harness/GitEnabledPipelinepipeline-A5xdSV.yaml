@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_UxCSOd
+    name: TestAccResourcePipeline_UxCSOd_updated
     identifier: TestAccResourcePipeline_UxCSOd   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_UxCSOd
