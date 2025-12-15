@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_EAK8Nm
+    name: TestAccResourcePipeline_EAK8Nm_updated
     identifier: TestAccResourcePipeline_EAK8Nm   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_EAK8Nm
