@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_HAsaBP"
+   name: "TestAccResourceTemplateProjectScope_HAsaBP_updated"
    identifier: "TestAccResourceTemplateProjectScope_HAsaBP"
    versionLabel: ab
    type: Pipeline
