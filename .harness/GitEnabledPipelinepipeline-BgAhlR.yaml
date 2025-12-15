@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_XxYNrk
+    name: TestAccResourcePipeline_XxYNrk_updated
     identifier: TestAccResourcePipeline_XxYNrk   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_XxYNrk
