@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_MaOKJ_
+    name: TestAccResourcePipeline_MaOKJ__updated
     identifier: TestAccResourcePipeline_MaOKJ_   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_MaOKJ_
