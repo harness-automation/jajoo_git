@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_PgzOAv
+    name: TestAccResourcePipeline_PgzOAv_updated
     identifier: TestAccResourcePipeline_PgzOAv   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_PgzOAv
