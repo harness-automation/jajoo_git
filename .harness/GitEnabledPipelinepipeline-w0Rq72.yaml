@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_pukwJL
+    name: TestAccResourcePipeline_pukwJL_updated
     identifier: TestAccResourcePipeline_pukwJL   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_pukwJL
