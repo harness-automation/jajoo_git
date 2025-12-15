@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_nYg63W
+    name: TestAccResourcePipeline_nYg63W_updated
     identifier: TestAccResourcePipeline_nYg63W   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_nYg63W
