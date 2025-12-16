@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_kgMi30"
+   name: "TestAccResourceTemplateProjectScope_kgMi30_updated"
    identifier: "TestAccResourceTemplateProjectScope_kgMi30"
    versionLabel: ab
    type: Pipeline
