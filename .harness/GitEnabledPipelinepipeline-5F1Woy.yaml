@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_T7jnMR
+    name: TestAccResourcePipeline_T7jnMR_updated
     identifier: TestAccResourcePipeline_T7jnMR   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_T7jnMR
