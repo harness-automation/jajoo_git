@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_ZsmU66
+    name: TestAccResourcePipeline_ZsmU66_updated
     identifier: TestAccResourcePipeline_ZsmU66   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_ZsmU66
