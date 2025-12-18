@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_NNfyhl
+    name: TestAccResourcePipeline_NNfyhl_updated
     identifier: TestAccResourcePipeline_NNfyhl   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_NNfyhl
