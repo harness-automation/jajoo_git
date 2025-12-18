@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_h_x6dL
+    name: TestAccResourcePipeline_h_x6dL_updated
     identifier: TestAccResourcePipeline_h_x6dL   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_h_x6dL
