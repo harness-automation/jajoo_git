@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_TypGDV"
+   name: "TestAccResourceTemplate_OrgScope_TypGDV_updated"
    identifier: "TestAccResourceTemplate_OrgScope_TypGDV"
    versionLabel: ab
    type: Pipeline
