@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_DkRRSx
+    name: TestAccResourcePipeline_DkRRSx_updated
     identifier: TestAccResourcePipeline_DkRRSx   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_DkRRSx
