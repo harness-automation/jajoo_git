@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_QlWMxg
+    name: TestAccResourcePipeline_QlWMxg_updated
     identifier: TestAccResourcePipeline_QlWMxg   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_QlWMxg
