@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_FCtm3D"
+   name: "TestAccResourceTemplateProjectScope_FCtm3D_updated"
    identifier: "TestAccResourceTemplateProjectScope_FCtm3D"
    versionLabel: ab
    type: Pipeline
