@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_GayhkV
+    name: TestAccResourcePipeline_GayhkV_updated
     identifier: TestAccResourcePipeline_GayhkV   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_GayhkV
