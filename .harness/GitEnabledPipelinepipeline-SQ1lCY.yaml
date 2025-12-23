@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_RW0_Ex
+    name: TestAccResourcePipeline_RW0_Ex_updated
     identifier: TestAccResourcePipeline_RW0_Ex   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_RW0_Ex
