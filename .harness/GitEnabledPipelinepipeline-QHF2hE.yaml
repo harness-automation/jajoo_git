@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_d5nSN7
+    name: TestAccResourcePipeline_d5nSN7_updated
     identifier: TestAccResourcePipeline_d5nSN7   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_d5nSN7
