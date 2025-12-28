@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_BfAllo"
+   name: "TestAccResourceTemplateProjectScope_BfAllo_updated"
    identifier: "TestAccResourceTemplateProjectScope_BfAllo"
    versionLabel: ab
    type: Pipeline
