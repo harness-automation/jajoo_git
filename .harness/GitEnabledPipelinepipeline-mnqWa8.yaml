@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_PA4Xns
+    name: TestAccResourcePipeline_PA4Xns_updated
     identifier: TestAccResourcePipeline_PA4Xns   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_PA4Xns
