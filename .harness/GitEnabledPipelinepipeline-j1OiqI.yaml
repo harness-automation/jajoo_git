@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_Q_sj5a
+    name: TestAccResourcePipeline_Q_sj5a_updated
     identifier: TestAccResourcePipeline_Q_sj5a   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_Q_sj5a
