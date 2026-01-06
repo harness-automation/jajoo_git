@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_dVcEME
+    name: TestAccResourcePipeline_dVcEME_updated
     identifier: TestAccResourcePipeline_dVcEME   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_dVcEME
