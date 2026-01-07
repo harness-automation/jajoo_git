@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_HAYGli"
+   name: "TestAccResourceTemplateProjectScope_HAYGli_updated"
    identifier: "TestAccResourceTemplateProjectScope_HAYGli"
    versionLabel: ab
    type: Pipeline
