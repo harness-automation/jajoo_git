@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_UDMpT1"
+   name: "TestAccResourceTemplateProjectScope_UDMpT1_updated"
    identifier: "TestAccResourceTemplateProjectScope_UDMpT1"
    versionLabel: ab
    type: Pipeline
