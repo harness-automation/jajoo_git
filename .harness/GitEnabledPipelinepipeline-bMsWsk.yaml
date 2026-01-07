@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_ouanTX
+    name: TestAccResourcePipeline_ouanTX_updated
     identifier: TestAccResourcePipeline_ouanTX   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_ouanTX
