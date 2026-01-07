@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_hMlvSs"
+   name: "TestAccResourceTemplate_OrgScope_hMlvSs_updated"
    identifier: "TestAccResourceTemplate_OrgScope_hMlvSs"
    versionLabel: ab
    type: Pipeline
