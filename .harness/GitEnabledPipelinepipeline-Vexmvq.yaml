@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_U3dPGv
+    name: TestAccResourcePipeline_U3dPGv_updated
     identifier: TestAccResourcePipeline_U3dPGv   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_U3dPGv
