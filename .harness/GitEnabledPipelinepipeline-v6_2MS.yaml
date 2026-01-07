@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_a4_8VB
+    name: TestAccResourcePipeline_a4_8VB_updated
     identifier: TestAccResourcePipeline_a4_8VB   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_a4_8VB
