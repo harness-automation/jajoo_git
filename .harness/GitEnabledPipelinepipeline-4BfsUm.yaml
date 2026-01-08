@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_Vyesyo
+    name: TestAccResourcePipeline_Vyesyo_updated
     identifier: TestAccResourcePipeline_Vyesyo   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_Vyesyo
