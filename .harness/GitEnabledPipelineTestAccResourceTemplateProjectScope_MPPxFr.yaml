@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_MPPxFr"
+   name: "TestAccResourceTemplateProjectScope_MPPxFr_updated"
    identifier: "TestAccResourceTemplateProjectScope_MPPxFr"
    versionLabel: ab
    type: Pipeline
