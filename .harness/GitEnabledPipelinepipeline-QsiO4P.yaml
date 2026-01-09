@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_TR42Bt
+    name: TestAccResourcePipeline_TR42Bt_updated
     identifier: TestAccResourcePipeline_TR42Bt   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_TR42Bt
