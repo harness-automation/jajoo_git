@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_Srjybc
+    name: TestAccResourcePipeline_Srjybc_updated
     identifier: TestAccResourcePipeline_Srjybc   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_Srjybc
