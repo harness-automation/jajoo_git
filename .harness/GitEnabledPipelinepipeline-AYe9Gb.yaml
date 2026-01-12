@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_Wvya1G
+    name: TestAccResourcePipeline_Wvya1G_updated
     identifier: TestAccResourcePipeline_Wvya1G   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_Wvya1G
