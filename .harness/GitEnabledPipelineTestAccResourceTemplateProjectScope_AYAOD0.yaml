@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_AYAOD0"
+   name: "TestAccResourceTemplateProjectScope_AYAOD0_updated"
    identifier: "TestAccResourceTemplateProjectScope_AYAOD0"
    versionLabel: ab
    type: Pipeline
