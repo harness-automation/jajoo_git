@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_FJXsh0
+    name: TestAccResourcePipeline_FJXsh0_updated
     identifier: TestAccResourcePipeline_FJXsh0   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_FJXsh0
