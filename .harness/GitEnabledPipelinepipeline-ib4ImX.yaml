@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_tVvih3
+    name: TestAccResourcePipeline_tVvih3_updated
     identifier: TestAccResourcePipeline_tVvih3   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_tVvih3
