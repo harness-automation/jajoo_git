@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_fw2H2O
+    name: TestAccResourcePipeline_fw2H2O_updated
     identifier: TestAccResourcePipeline_fw2H2O   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_fw2H2O
