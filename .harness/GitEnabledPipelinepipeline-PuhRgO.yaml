@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_x13_tv
+    name: TestAccResourcePipeline_x13_tv_updated
     identifier: TestAccResourcePipeline_x13_tv   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_x13_tv
