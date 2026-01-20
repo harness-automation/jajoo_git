@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope__QROtb"
+   name: "TestAccResourceTemplateProjectScope__QROtb_updated"
    identifier: "TestAccResourceTemplateProjectScope__QROtb"
    versionLabel: ab
    type: Pipeline
