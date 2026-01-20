@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_VbfDnI
+    name: TestAccResourcePipeline_VbfDnI_updated
     identifier: TestAccResourcePipeline_VbfDnI   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_VbfDnI
