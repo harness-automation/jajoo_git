@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_VtdoGE"
+   name: "TestAccResourceTemplate_OrgScope_VtdoGE_updated"
    identifier: "TestAccResourceTemplate_OrgScope_VtdoGE"
    versionLabel: ab
    type: Pipeline
