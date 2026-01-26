@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_WG8Dzl
+    name: TestAccResourcePipeline_WG8Dzl_updated
     identifier: TestAccResourcePipeline_WG8Dzl   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_WG8Dzl
