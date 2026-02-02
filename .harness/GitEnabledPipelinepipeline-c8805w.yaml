@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_M9Sizr
+    name: TestAccResourcePipeline_M9Sizr_updated
     identifier: TestAccResourcePipeline_M9Sizr   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_M9Sizr
