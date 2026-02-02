@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_ld7EkA
+    name: TestAccResourcePipeline_ld7EkA_updated
     identifier: TestAccResourcePipeline_ld7EkA   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_ld7EkA
