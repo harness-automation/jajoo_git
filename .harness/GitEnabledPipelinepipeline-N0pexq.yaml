@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_w450N2
+    name: TestAccResourcePipeline_w450N2_updated
     identifier: TestAccResourcePipeline_w450N2   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_w450N2
