@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_wIAif5
+    name: TestAccResourcePipeline_wIAif5_updated
     identifier: TestAccResourcePipeline_wIAif5   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_wIAif5
