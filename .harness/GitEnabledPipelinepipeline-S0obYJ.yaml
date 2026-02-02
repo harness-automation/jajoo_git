@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_b9FSCS
+    name: TestAccResourcePipeline_b9FSCS_updated
     identifier: TestAccResourcePipeline_b9FSCS   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_b9FSCS
