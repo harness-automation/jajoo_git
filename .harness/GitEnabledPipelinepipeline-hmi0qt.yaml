@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_FK2rBf
+    name: TestAccResourcePipeline_FK2rBf_updated
     identifier: TestAccResourcePipeline_FK2rBf   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_FK2rBf
