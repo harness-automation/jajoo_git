@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_NAsnyF"
+   name: "TestAccResourceTemplate_AccountScope_NAsnyF_updated"
    identifier: "TestAccResourceTemplate_AccountScope_NAsnyF"
    versionLabel: ab
    type: Pipeline
