@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_pcfZT2
+    name: TestAccResourcePipeline_pcfZT2_updated
     identifier: TestAccResourcePipeline_pcfZT2   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_pcfZT2
