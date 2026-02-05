@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_fdgKWO
+    name: TestAccResourcePipeline_fdgKWO_updated
     identifier: TestAccResourcePipeline_fdgKWO   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_fdgKWO
