@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_MQKy7g
+    name: TestAccResourcePipeline_MQKy7g_updated
     identifier: TestAccResourcePipeline_MQKy7g   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_MQKy7g
