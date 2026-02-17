@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_eYavbc"
+   name: "TestAccResourceTemplateProjectScope_eYavbc_updated"
    identifier: "TestAccResourceTemplateProjectScope_eYavbc"
    versionLabel: ab
    type: Pipeline
