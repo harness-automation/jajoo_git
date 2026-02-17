@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_NQE5SO
+    name: TestAccResourcePipeline_NQE5SO_updated
     identifier: TestAccResourcePipeline_NQE5SO   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_NQE5SO
