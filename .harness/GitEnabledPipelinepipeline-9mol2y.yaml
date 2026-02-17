@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_TT_Wrx
+    name: TestAccResourcePipeline_TT_Wrx_updated
     identifier: TestAccResourcePipeline_TT_Wrx   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_TT_Wrx
