@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_yoCDix
+    name: TestAccResourcePipeline_yoCDix_updated
     identifier: TestAccResourcePipeline_yoCDix   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_yoCDix
