@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_kCZAW_
+    name: TestAccResourcePipeline_kCZAW__updated
     identifier: TestAccResourcePipeline_kCZAW_   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_kCZAW_
