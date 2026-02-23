@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_IhcrWn"
+   name: "TestAccResourceTemplateProjectScope_IhcrWn_updated"
    identifier: "TestAccResourceTemplateProjectScope_IhcrWn"
    versionLabel: ab
    type: Pipeline
