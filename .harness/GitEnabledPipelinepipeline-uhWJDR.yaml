@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_imYnpA
+    name: TestAccResourcePipeline_imYnpA_updated
     identifier: TestAccResourcePipeline_imYnpA   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_imYnpA
