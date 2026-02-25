@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_dZ88m9
+    name: TestAccResourcePipeline_dZ88m9_updated
     identifier: TestAccResourcePipeline_dZ88m9   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_dZ88m9
