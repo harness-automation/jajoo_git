@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_M6VALF"
+   name: "TestAccResourceTemplate_OrgScope_M6VALF_updated"
    identifier: "TestAccResourceTemplate_OrgScope_M6VALF"
    versionLabel: ab
    type: Pipeline
