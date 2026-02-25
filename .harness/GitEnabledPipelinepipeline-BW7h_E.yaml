@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_iTtMOl
+    name: TestAccResourcePipeline_iTtMOl_updated
     identifier: TestAccResourcePipeline_iTtMOl   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_iTtMOl
