@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_LueBOf"
+   name: "TestAccResourceTemplate_AccountScope_LueBOf_updated"
    identifier: "TestAccResourceTemplate_AccountScope_LueBOf"
    versionLabel: ab
    type: Pipeline
