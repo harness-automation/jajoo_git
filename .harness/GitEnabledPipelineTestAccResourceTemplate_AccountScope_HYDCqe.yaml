@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_HYDCqe"
+   name: "TestAccResourceTemplate_AccountScope_HYDCqe_updated"
    identifier: "TestAccResourceTemplate_AccountScope_HYDCqe"
    versionLabel: ab
    type: Pipeline
