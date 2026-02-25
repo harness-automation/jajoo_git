@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_U7xmph
+    name: TestAccResourcePipeline_U7xmph_updated
     identifier: TestAccResourcePipeline_U7xmph   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_U7xmph
