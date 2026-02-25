@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_kve3rc"
+   name: "TestAccResourceTemplateProjectScope_kve3rc_updated"
    identifier: "TestAccResourceTemplateProjectScope_kve3rc"
    versionLabel: ab
    type: Pipeline
