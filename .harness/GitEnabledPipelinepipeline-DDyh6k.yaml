@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_rfmR2d
+    name: TestAccResourcePipeline_rfmR2d_updated
     identifier: TestAccResourcePipeline_rfmR2d   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_rfmR2d
