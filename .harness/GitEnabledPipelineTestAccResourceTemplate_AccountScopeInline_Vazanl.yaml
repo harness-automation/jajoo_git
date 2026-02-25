@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_Vazanl"
+   name: "TestAccResourceTemplate_AccountScopeInline_Vazanl_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_Vazanl"
    versionLabel: ab
    type: Pipeline
