@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_FPmlbX
+    name: TestAccResourcePipeline_FPmlbX_updated
     identifier: TestAccResourcePipeline_FPmlbX   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_FPmlbX
