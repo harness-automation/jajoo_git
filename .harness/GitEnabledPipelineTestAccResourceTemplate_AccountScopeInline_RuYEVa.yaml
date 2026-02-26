@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_RuYEVa"
+   name: "TestAccResourceTemplate_AccountScopeInline_RuYEVa_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_RuYEVa"
    versionLabel: ab
    type: Pipeline
