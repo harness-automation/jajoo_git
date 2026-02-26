@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_Pjql6V
+    name: TestAccResourcePipeline_Pjql6V_updated
     identifier: TestAccResourcePipeline_Pjql6V   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_Pjql6V
