@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_xln2Cu
+    name: TestAccResourcePipeline_xln2Cu_updated
     identifier: TestAccResourcePipeline_xln2Cu   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_xln2Cu
