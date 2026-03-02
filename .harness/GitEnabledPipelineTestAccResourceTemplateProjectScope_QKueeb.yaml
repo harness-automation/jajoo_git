@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_QKueeb"
+   name: "TestAccResourceTemplateProjectScope_QKueeb_updated"
    identifier: "TestAccResourceTemplateProjectScope_QKueeb"
    versionLabel: ab
    type: Pipeline
