@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_JO8s6r
+    name: TestAccResourcePipeline_JO8s6r_updated
     identifier: TestAccResourcePipeline_JO8s6r   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_JO8s6r
