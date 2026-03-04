@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_MfhLpQ
+    name: TestAccResourcePipeline_MfhLpQ_updated
     identifier: TestAccResourcePipeline_MfhLpQ   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_MfhLpQ
