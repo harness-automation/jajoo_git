@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_Pequi6"
+   name: "TestAccResourceTemplateProjectScope_Pequi6_updated"
    identifier: "TestAccResourceTemplateProjectScope_Pequi6"
    versionLabel: ab
    type: Pipeline
