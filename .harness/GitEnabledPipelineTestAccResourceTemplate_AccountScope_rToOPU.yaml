@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_rToOPU"
+   name: "TestAccResourceTemplate_AccountScope_rToOPU_updated"
    identifier: "TestAccResourceTemplate_AccountScope_rToOPU"
    versionLabel: ab
    type: Pipeline
