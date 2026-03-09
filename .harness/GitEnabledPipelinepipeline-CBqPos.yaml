@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_xQSA62
+    name: TestAccResourcePipeline_xQSA62_updated
     identifier: TestAccResourcePipeline_xQSA62   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_xQSA62
