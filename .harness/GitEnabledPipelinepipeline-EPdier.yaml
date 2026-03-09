@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_asRVuj
+    name: TestAccResourcePipeline_asRVuj_updated
     identifier: TestAccResourcePipeline_asRVuj   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_asRVuj
