@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_jgnrd3"
+   name: "TestAccResourceTemplateProjectScope_jgnrd3_updated"
    identifier: "TestAccResourceTemplateProjectScope_jgnrd3"
    versionLabel: ab
    type: Pipeline
