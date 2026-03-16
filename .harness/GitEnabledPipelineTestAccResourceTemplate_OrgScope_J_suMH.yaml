@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_J_suMH"
+   name: "TestAccResourceTemplate_OrgScope_J_suMH_updated"
    identifier: "TestAccResourceTemplate_OrgScope_J_suMH"
    versionLabel: ab
    type: Pipeline
