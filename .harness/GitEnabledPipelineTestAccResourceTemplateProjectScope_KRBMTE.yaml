@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_KRBMTE"
+   name: "TestAccResourceTemplateProjectScope_KRBMTE_updated"
    identifier: "TestAccResourceTemplateProjectScope_KRBMTE"
    versionLabel: ab
    type: Pipeline
