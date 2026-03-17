@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_z72EdN
+    name: TestAccResourcePipeline_z72EdN_updated
     identifier: TestAccResourcePipeline_z72EdN   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_z72EdN
