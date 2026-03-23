@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_DSHBCF"
+   name: "TestAccResourceTemplateProjectScope_DSHBCF_updated"
    identifier: "TestAccResourceTemplateProjectScope_DSHBCF"
    versionLabel: ab
    type: Pipeline
