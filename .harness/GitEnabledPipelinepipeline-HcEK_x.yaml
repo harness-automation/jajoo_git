@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_rqlhSi
+    name: TestAccResourcePipeline_rqlhSi_updated
     identifier: TestAccResourcePipeline_rqlhSi   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_rqlhSi
