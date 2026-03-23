@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_XkeLtO
+    name: TestAccResourcePipeline_XkeLtO_updated
     identifier: TestAccResourcePipeline_XkeLtO   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_XkeLtO
