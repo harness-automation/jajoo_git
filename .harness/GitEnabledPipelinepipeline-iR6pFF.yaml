@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_ECINzE
+    name: TestAccResourcePipeline_ECINzE_updated
     identifier: TestAccResourcePipeline_ECINzE   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_ECINzE
