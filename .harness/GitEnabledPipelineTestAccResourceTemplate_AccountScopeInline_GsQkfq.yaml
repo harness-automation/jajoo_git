@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_GsQkfq"
+   name: "TestAccResourceTemplate_AccountScopeInline_GsQkfq_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_GsQkfq"
    versionLabel: ab
    type: Pipeline
