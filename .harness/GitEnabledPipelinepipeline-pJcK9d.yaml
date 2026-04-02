@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_ZFIRvY
+    name: TestAccResourcePipeline_ZFIRvY_updated
     identifier: TestAccResourcePipeline_ZFIRvY   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_ZFIRvY
