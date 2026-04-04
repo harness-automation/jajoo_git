@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_x2HBDV
+    name: TestAccResourcePipeline_x2HBDV_updated
     identifier: TestAccResourcePipeline_x2HBDV   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_x2HBDV
