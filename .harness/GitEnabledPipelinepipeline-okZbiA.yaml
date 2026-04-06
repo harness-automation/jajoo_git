@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_qSEPZ1
+    name: TestAccResourcePipeline_qSEPZ1_updated
     identifier: TestAccResourcePipeline_qSEPZ1   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_qSEPZ1
