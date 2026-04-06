@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_VbDtuO
+    name: TestAccResourcePipeline_VbDtuO_updated
     identifier: TestAccResourcePipeline_VbDtuO   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_VbDtuO
