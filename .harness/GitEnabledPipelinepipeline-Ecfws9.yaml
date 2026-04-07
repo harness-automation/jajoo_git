@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_qTboe2
+    name: TestAccResourcePipeline_qTboe2_updated
     identifier: TestAccResourcePipeline_qTboe2   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_qTboe2
