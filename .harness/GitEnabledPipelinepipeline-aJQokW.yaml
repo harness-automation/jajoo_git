@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_HfjEDV
+    name: TestAccResourcePipeline_HfjEDV_updated
     identifier: TestAccResourcePipeline_HfjEDV   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_HfjEDV
