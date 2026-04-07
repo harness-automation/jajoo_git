@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_tYGPTL"
+   name: "TestAccResourceTemplate_AccountScopeInline_tYGPTL_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_tYGPTL"
    versionLabel: ab
    type: Pipeline
