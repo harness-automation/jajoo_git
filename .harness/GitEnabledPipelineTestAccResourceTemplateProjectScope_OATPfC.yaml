@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_OATPfC"
+   name: "TestAccResourceTemplateProjectScope_OATPfC_updated"
    identifier: "TestAccResourceTemplateProjectScope_OATPfC"
    versionLabel: ab
    type: Pipeline
