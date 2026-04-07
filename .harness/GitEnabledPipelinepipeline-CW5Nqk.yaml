@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_T70KbA
+    name: TestAccResourcePipeline_T70KbA_updated
     identifier: TestAccResourcePipeline_T70KbA   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_T70KbA
