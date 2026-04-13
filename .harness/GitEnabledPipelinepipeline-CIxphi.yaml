@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_PGYJCb
+    name: TestAccResourcePipeline_PGYJCb_updated
     identifier: TestAccResourcePipeline_PGYJCb   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_PGYJCb
