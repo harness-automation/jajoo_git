@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_nF9LV3
+    name: TestAccResourcePipeline_nF9LV3_updated
     identifier: TestAccResourcePipeline_nF9LV3   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_nF9LV3
