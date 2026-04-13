@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_kuvn3s
+    name: TestAccResourcePipeline_kuvn3s_updated
     identifier: TestAccResourcePipeline_kuvn3s   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_kuvn3s
