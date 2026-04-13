@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_HkvDoA
+    name: TestAccResourcePipeline_HkvDoA_updated
     identifier: TestAccResourcePipeline_HkvDoA   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_HkvDoA
