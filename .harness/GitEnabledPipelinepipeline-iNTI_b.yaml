@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_d98ylE
+    name: TestAccResourcePipeline_d98ylE_updated
     identifier: TestAccResourcePipeline_d98ylE   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_d98ylE
