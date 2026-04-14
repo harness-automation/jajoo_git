@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_CKdTkF
+    name: TestAccResourcePipeline_CKdTkF_updated
     identifier: TestAccResourcePipeline_CKdTkF   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_CKdTkF
