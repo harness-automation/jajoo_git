@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_FsCokw"
+   name: "TestAccResourceTemplate_AccountScopeInline_FsCokw_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_FsCokw"
    versionLabel: ab
    type: Pipeline
