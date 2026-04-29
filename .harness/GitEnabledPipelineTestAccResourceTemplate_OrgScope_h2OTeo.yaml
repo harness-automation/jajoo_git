@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_h2OTeo"
+   name: "TestAccResourceTemplate_OrgScope_h2OTeo_updated"
    identifier: "TestAccResourceTemplate_OrgScope_h2OTeo"
    versionLabel: ab
    type: Pipeline
