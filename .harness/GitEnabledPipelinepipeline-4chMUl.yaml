@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_heZdEG
+    name: TestAccResourcePipeline_heZdEG_updated
     identifier: TestAccResourcePipeline_heZdEG   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_heZdEG
