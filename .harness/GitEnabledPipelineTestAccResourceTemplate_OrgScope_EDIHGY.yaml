@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_EDIHGY"
+   name: "TestAccResourceTemplate_OrgScope_EDIHGY_updated"
    identifier: "TestAccResourceTemplate_OrgScope_EDIHGY"
    versionLabel: ab
    type: Pipeline
