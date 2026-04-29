@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_odiUJF"
+   name: "TestAccResourceTemplate_OrgScope_odiUJF_updated"
    identifier: "TestAccResourceTemplate_OrgScope_odiUJF"
    versionLabel: ab
    type: Pipeline
