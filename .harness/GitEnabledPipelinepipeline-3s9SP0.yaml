@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_08atmx
+    name: TestAccResourcePipeline_08atmx_updated
     identifier: TestAccResourcePipeline_08atmx   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_08atmx
