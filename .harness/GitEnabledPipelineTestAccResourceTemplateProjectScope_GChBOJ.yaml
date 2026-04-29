@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_GChBOJ"
+   name: "TestAccResourceTemplateProjectScope_GChBOJ_updated"
    identifier: "TestAccResourceTemplateProjectScope_GChBOJ"
    versionLabel: ab
    type: Pipeline
