@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_8RlDIU
+    name: TestAccResourcePipeline_8RlDIU_updated
     identifier: TestAccResourcePipeline_8RlDIU   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_8RlDIU
