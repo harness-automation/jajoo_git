@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_NE7i4G
+    name: TestAccResourcePipeline_NE7i4G_updated
     identifier: TestAccResourcePipeline_NE7i4G   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_NE7i4G
