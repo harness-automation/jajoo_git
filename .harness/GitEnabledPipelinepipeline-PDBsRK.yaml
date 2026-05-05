@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline__naPPx
+    name: TestAccResourcePipeline__naPPx_updated
     identifier: TestAccResourcePipeline__naPPx   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline__naPPx
