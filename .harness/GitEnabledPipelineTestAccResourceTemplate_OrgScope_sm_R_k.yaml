@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_sm_R_k"
+   name: "TestAccResourceTemplate_OrgScope_sm_R_k_updated"
    identifier: "TestAccResourceTemplate_OrgScope_sm_R_k"
    versionLabel: ab
    type: Pipeline
