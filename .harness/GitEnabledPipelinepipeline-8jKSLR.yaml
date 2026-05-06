@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_IqsF97
+    name: TestAccResourcePipeline_IqsF97_updated
     identifier: TestAccResourcePipeline_IqsF97   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_IqsF97
