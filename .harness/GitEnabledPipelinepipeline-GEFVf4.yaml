@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_EmranZ
+    name: TestAccResourcePipeline_EmranZ_updated
     identifier: TestAccResourcePipeline_EmranZ   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_EmranZ
