@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_p3pDRJ
+    name: TestAccResourcePipeline_p3pDRJ_updated
     identifier: TestAccResourcePipeline_p3pDRJ   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_p3pDRJ
