@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_ZF4_nu"
+   name: "TestAccResourceTemplateProjectScope_ZF4_nu_updated"
    identifier: "TestAccResourceTemplateProjectScope_ZF4_nu"
    versionLabel: ab
    type: Pipeline
