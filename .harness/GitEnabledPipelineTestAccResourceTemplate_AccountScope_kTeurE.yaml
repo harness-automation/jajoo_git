@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_kTeurE"
+   name: "TestAccResourceTemplate_AccountScope_kTeurE_updated"
    identifier: "TestAccResourceTemplate_AccountScope_kTeurE"
    versionLabel: ab
    type: Pipeline
