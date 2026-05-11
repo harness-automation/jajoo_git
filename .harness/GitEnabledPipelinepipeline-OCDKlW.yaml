@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_FI_SfA
+    name: TestAccResourcePipeline_FI_SfA_updated
     identifier: TestAccResourcePipeline_FI_SfA   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_FI_SfA
