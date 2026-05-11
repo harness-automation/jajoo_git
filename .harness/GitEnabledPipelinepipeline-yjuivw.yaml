@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_JkdBSn
+    name: TestAccResourcePipeline_JkdBSn_updated
     identifier: TestAccResourcePipeline_JkdBSn   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_JkdBSn
