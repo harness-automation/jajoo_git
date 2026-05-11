@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_OWs_bN
+    name: TestAccResourcePipeline_OWs_bN_updated
     identifier: TestAccResourcePipeline_OWs_bN   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_OWs_bN
