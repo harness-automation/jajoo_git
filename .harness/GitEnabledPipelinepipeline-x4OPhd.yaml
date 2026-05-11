@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_m189RF
+    name: TestAccResourcePipeline_m189RF_updated
     identifier: TestAccResourcePipeline_m189RF   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_m189RF
