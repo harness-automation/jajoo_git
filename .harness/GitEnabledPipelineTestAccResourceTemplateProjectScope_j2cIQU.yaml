@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_j2cIQU"
+   name: "TestAccResourceTemplateProjectScope_j2cIQU_updated"
    identifier: "TestAccResourceTemplateProjectScope_j2cIQU"
    versionLabel: ab
    type: Pipeline
