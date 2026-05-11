@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_vSF_Mf
+    name: TestAccResourcePipeline_vSF_Mf_updated
     identifier: TestAccResourcePipeline_vSF_Mf   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_vSF_Mf
