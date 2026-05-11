@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_SvzXds
+    name: TestAccResourcePipeline_SvzXds_updated
     identifier: TestAccResourcePipeline_SvzXds   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_SvzXds
