@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_BJdjr4
+    name: TestAccResourcePipeline_BJdjr4_updated
     identifier: TestAccResourcePipeline_BJdjr4   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_BJdjr4
