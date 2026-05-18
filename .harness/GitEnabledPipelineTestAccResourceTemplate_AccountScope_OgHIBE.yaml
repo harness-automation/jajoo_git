@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_OgHIBE"
+   name: "TestAccResourceTemplate_AccountScope_OgHIBE_updated"
    identifier: "TestAccResourceTemplate_AccountScope_OgHIBE"
    versionLabel: ab
    type: Pipeline
