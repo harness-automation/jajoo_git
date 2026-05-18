@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_KGDG_l
+    name: TestAccResourcePipeline_KGDG_l_updated
     identifier: TestAccResourcePipeline_KGDG_l   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_KGDG_l
