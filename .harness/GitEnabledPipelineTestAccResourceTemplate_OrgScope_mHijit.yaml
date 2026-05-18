@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_mHijit"
+   name: "TestAccResourceTemplate_OrgScope_mHijit_updated"
    identifier: "TestAccResourceTemplate_OrgScope_mHijit"
    versionLabel: ab
    type: Pipeline
