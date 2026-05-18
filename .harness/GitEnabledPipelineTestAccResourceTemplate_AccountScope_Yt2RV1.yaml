@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_Yt2RV1"
+   name: "TestAccResourceTemplate_AccountScope_Yt2RV1_updated"
    identifier: "TestAccResourceTemplate_AccountScope_Yt2RV1"
    versionLabel: ab
    type: Pipeline
