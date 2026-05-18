@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_CjMewA
+    name: TestAccResourcePipeline_CjMewA_updated
     identifier: TestAccResourcePipeline_CjMewA   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_CjMewA
