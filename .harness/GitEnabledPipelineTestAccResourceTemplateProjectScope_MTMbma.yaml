@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_MTMbma"
+   name: "TestAccResourceTemplateProjectScope_MTMbma_updated"
    identifier: "TestAccResourceTemplateProjectScope_MTMbma"
    versionLabel: ab
    type: Pipeline
