@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_SjQOsG
+    name: TestAccResourcePipeline_SjQOsG_updated
     identifier: TestAccResourcePipeline_SjQOsG   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_SjQOsG
