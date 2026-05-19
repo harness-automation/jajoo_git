@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_vab8Ts
+    name: TestAccResourcePipeline_vab8Ts_updated
     identifier: TestAccResourcePipeline_vab8Ts   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_vab8Ts
