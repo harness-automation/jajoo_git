@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_KAmdsM"
+   name: "TestAccResourceTemplateProjectScope_KAmdsM_updated"
    identifier: "TestAccResourceTemplateProjectScope_KAmdsM"
    versionLabel: ab
    type: Pipeline
