@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_k31J93
+    name: TestAccResourcePipeline_k31J93_updated
     identifier: TestAccResourcePipeline_k31J93   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_k31J93
