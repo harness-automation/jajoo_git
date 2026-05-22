@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_rJpaNv
+    name: TestAccResourcePipeline_rJpaNv_updated
     identifier: TestAccResourcePipeline_rJpaNv   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_rJpaNv
