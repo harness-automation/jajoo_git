@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_5Psgga
+    name: TestAccResourcePipeline_5Psgga_updated
     identifier: TestAccResourcePipeline_5Psgga   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_5Psgga
