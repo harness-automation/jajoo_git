@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourceInputSetRemote
+    name: TestAccResourceInputSetRemote_updated
     identifier: TestAccResourceInputSetRemote_FQ2i2
     allowStageExecutions: false
     projectIdentifier: TestAccResourceInputSetRemote_FQ2i2
