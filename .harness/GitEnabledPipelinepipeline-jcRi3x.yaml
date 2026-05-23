@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_IT8335
+    name: TestAccResourcePipeline_IT8335_updated
     identifier: TestAccResourcePipeline_IT8335   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_IT8335
