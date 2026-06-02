@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_iqGRUc
+    name: TestAccResourcePipeline_iqGRUc_updated
     identifier: TestAccResourcePipeline_iqGRUc   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_iqGRUc
