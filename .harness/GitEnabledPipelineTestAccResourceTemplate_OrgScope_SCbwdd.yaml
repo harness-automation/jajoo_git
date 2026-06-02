@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_SCbwdd"
+   name: "TestAccResourceTemplate_OrgScope_SCbwdd_updated"
    identifier: "TestAccResourceTemplate_OrgScope_SCbwdd"
    versionLabel: ab
    type: Pipeline
