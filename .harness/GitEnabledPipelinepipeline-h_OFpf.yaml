@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_UE2aos
+    name: TestAccResourcePipeline_UE2aos_updated
     identifier: TestAccResourcePipeline_UE2aos   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_UE2aos
