@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_NhlpsC
+    name: TestAccResourcePipeline_NhlpsC_updated
     identifier: TestAccResourcePipeline_NhlpsC   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_NhlpsC
