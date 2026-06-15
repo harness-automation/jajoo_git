@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_njzbcy
+    name: TestAccResourcePipeline_njzbcy_updated
     identifier: TestAccResourcePipeline_njzbcy   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_njzbcy
