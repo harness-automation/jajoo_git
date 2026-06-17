@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_jeEhso
+    name: TestAccResourcePipeline_jeEhso_updated
     identifier: TestAccResourcePipeline_jeEhso   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_jeEhso
