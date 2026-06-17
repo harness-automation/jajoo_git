@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_kosOxl"
+   name: "TestAccResourceTemplateProjectScope_kosOxl_updated"
    identifier: "TestAccResourceTemplateProjectScope_kosOxl"
    versionLabel: ab
    type: Pipeline
