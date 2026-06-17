@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_ARwaLk"
+   name: "TestAccResourceTemplate_OrgScope_ARwaLk_updated"
    identifier: "TestAccResourceTemplate_OrgScope_ARwaLk"
    versionLabel: ab
    type: Pipeline
