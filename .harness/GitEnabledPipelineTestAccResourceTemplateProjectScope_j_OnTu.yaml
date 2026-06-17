@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_j_OnTu"
+   name: "TestAccResourceTemplateProjectScope_j_OnTu_updated"
    identifier: "TestAccResourceTemplateProjectScope_j_OnTu"
    versionLabel: ab
    type: Pipeline
