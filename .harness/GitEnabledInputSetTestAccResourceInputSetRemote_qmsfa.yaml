@@ -1,0 +1,13 @@
+inputSet:
+  identifier: "TestAccResourceInputSetRemote_qmsfa"
+  name: "TestAccResourceInputSetRemote"
+  tags:
+    foo: "bar"
+  orgIdentifier: "TestAccResourceInputSetRemote_qmsfa"
+  projectIdentifier: "TestAccResourceInputSetRemote_qmsfa"
+  pipeline:
+    identifier: "TestAccResourceInputSetRemote_qmsfa"
+    variables:
+    - name: "key"
+      type: "String"
+      value: "value"
