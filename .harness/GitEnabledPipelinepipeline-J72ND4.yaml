@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_BNCbVs
+    name: TestAccResourcePipeline_BNCbVs_updated
     identifier: TestAccResourcePipeline_BNCbVs   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_BNCbVs
