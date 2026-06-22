@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_OcZnaA
+    name: TestAccResourcePipeline_OcZnaA_updated
     identifier: TestAccResourcePipeline_OcZnaA   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_OcZnaA
