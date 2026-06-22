@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_vodqpo"
+   name: "TestAccResourceTemplate_AccountScopeInline_vodqpo_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_vodqpo"
    versionLabel: ab
    type: Pipeline
