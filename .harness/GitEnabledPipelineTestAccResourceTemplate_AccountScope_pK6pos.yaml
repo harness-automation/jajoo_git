@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_pK6pos"
+   name: "TestAccResourceTemplate_AccountScope_pK6pos_updated"
    identifier: "TestAccResourceTemplate_AccountScope_pK6pos"
    versionLabel: ab
    type: Pipeline
