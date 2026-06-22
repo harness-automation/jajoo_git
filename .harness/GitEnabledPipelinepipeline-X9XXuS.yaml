@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_PEg49g
+    name: TestAccResourcePipeline_PEg49g_updated
     identifier: TestAccResourcePipeline_PEg49g   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_PEg49g
