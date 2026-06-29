@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_Cp6eNc
+    name: TestAccResourcePipeline_Cp6eNc_updated
     identifier: TestAccResourcePipeline_Cp6eNc   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_Cp6eNc
