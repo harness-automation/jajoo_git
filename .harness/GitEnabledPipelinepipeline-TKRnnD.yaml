@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_keleTY
+    name: TestAccResourcePipeline_keleTY_updated
     identifier: TestAccResourcePipeline_keleTY   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_keleTY
