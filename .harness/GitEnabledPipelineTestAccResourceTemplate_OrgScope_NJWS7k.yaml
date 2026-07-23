@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_NJWS7k"
+   name: "TestAccResourceTemplate_OrgScope_NJWS7k_updated"
    identifier: "TestAccResourceTemplate_OrgScope_NJWS7k"
    versionLabel: ab
    type: Pipeline
