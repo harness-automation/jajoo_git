@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_T03wlt
+    name: TestAccResourcePipeline_T03wlt_updated
     identifier: TestAccResourcePipeline_T03wlt   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_T03wlt
