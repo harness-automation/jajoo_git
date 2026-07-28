@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_NnIJBK
+    name: TestAccResourcePipeline_NnIJBK_updated
     identifier: TestAccResourcePipeline_NnIJBK   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_NnIJBK
