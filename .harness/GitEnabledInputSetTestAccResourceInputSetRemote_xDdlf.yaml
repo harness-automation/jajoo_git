@@ -1,0 +1,13 @@
+inputSet:
+  identifier: "TestAccResourceInputSetRemote_xDdlf"
+  name: "TestAccResourceInputSetRemote"
+  tags:
+    foo: "bar"
+  orgIdentifier: "TestAccResourceInputSetRemote_xDdlf"
+  projectIdentifier: "TestAccResourceInputSetRemote_xDdlf"
+  pipeline:
+    identifier: "TestAccResourceInputSetRemote_xDdlf"
+    variables:
+    - name: "key"
+      type: "String"
+      value: "value"
