@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_nPad_N"
+   name: "TestAccResourceTemplateProjectScope_nPad_N_updated"
    identifier: "TestAccResourceTemplateProjectScope_nPad_N"
    versionLabel: ab
    type: Pipeline
