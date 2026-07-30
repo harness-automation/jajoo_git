@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_fesuP9
+    name: TestAccResourcePipeline_fesuP9_updated
     identifier: TestAccResourcePipeline_fesuP9   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_fesuP9
