@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_O9obbm
+    name: TestAccResourcePipeline_O9obbm_updated
     identifier: TestAccResourcePipeline_O9obbm   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_O9obbm
