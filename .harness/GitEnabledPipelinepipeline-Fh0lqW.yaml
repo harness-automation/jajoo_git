@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_doQK16
+    name: TestAccResourcePipeline_doQK16_updated
     identifier: TestAccResourcePipeline_doQK16   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_doQK16
