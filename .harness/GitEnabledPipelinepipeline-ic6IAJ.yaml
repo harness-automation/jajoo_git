@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_dBlv22
+    name: TestAccResourcePipeline_dBlv22_updated
     identifier: TestAccResourcePipeline_dBlv22   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_dBlv22
