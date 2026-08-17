@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_Ef3BFy
+    name: TestAccResourcePipeline_Ef3BFy_updated
     identifier: TestAccResourcePipeline_Ef3BFy   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_Ef3BFy
