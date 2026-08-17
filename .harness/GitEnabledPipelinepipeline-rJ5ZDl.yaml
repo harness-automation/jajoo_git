@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_dnraqd
+    name: TestAccResourcePipeline_dnraqd_updated
     identifier: TestAccResourcePipeline_dnraqd   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_dnraqd
