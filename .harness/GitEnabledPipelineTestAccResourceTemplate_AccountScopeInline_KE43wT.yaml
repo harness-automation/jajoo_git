@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScopeInline_KE43wT"
+   name: "TestAccResourceTemplate_AccountScopeInline_KE43wT_updated"
    identifier: "TestAccResourceTemplate_AccountScopeInline_KE43wT"
    versionLabel: ab
    type: Pipeline
