@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_Js3chn"
+   name: "TestAccResourceTemplate_OrgScope_Js3chn_updated"
    identifier: "TestAccResourceTemplate_OrgScope_Js3chn"
    versionLabel: ab
    type: Pipeline
