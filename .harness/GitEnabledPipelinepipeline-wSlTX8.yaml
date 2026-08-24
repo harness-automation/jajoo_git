@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_q35oSW
+    name: TestAccResourcePipeline_q35oSW_updated
     identifier: TestAccResourcePipeline_q35oSW   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_q35oSW
