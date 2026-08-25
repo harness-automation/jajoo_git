@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_IONOPw
+    name: TestAccResourcePipeline_IONOPw_updated
     identifier: TestAccResourcePipeline_IONOPw   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_IONOPw
