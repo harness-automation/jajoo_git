@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_PSjDGl"
+   name: "TestAccResourceTemplate_AccountScope_PSjDGl_updated"
    identifier: "TestAccResourceTemplate_AccountScope_PSjDGl"
    versionLabel: ab
    type: Pipeline
