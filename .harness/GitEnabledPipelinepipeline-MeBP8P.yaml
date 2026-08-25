@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_xDn58a
+    name: TestAccResourcePipeline_xDn58a_updated
     identifier: TestAccResourcePipeline_xDn58a   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_xDn58a
