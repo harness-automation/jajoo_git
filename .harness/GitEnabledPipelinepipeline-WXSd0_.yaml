@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_roPW0p
+    name: TestAccResourcePipeline_roPW0p_updated
     identifier: TestAccResourcePipeline_roPW0p   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_roPW0p
