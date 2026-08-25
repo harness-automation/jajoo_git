@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_Q4WBri"
+   name: "TestAccResourceTemplate_AccountScope_Q4WBri_updated"
    identifier: "TestAccResourceTemplate_AccountScope_Q4WBri"
    versionLabel: ab
    type: Pipeline
