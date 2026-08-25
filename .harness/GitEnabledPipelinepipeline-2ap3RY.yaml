@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_yOh87G
+    name: TestAccResourcePipeline_yOh87G_updated
     identifier: TestAccResourcePipeline_yOh87G   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_yOh87G
