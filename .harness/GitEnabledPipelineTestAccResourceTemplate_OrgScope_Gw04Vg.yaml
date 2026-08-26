@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_Gw04Vg"
+   name: "TestAccResourceTemplate_OrgScope_Gw04Vg_updated"
    identifier: "TestAccResourceTemplate_OrgScope_Gw04Vg"
    versionLabel: ab
    type: Pipeline
