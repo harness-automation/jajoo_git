@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_FAN5wc"
+   name: "TestAccResourceTemplate_OrgScope_FAN5wc_updated"
    identifier: "TestAccResourceTemplate_OrgScope_FAN5wc"
    versionLabel: ab
    type: Pipeline
