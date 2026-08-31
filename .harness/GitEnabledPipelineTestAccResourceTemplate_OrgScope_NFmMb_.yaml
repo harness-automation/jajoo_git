@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_NFmMb_"
+   name: "TestAccResourceTemplate_OrgScope_NFmMb__updated"
    identifier: "TestAccResourceTemplate_OrgScope_NFmMb_"
    versionLabel: ab
    type: Pipeline
