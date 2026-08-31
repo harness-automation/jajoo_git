@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_hUbWfq
+    name: TestAccResourcePipeline_hUbWfq_updated
     identifier: TestAccResourcePipeline_hUbWfq   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_hUbWfq
