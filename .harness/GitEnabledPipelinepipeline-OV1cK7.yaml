@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_ZIN7i8
+    name: TestAccResourcePipeline_ZIN7i8_updated
     identifier: TestAccResourcePipeline_ZIN7i8   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_ZIN7i8
