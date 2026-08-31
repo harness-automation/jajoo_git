@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_7IEOEF
+    name: TestAccResourcePipeline_7IEOEF_updated
     identifier: TestAccResourcePipeline_7IEOEF   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_7IEOEF
