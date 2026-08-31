@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_SNUC64"
+   name: "TestAccResourceTemplate_AccountScope_SNUC64_updated"
    identifier: "TestAccResourceTemplate_AccountScope_SNUC64"
    versionLabel: ab
    type: Pipeline
