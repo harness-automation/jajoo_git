@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_BI3CWM"
+   name: "TestAccResourceTemplate_OrgScope_BI3CWM_updated"
    identifier: "TestAccResourceTemplate_OrgScope_BI3CWM"
    versionLabel: ab
    type: Pipeline
