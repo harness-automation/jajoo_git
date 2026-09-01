@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_eBDPKC"
+   name: "TestAccResourceTemplate_OrgScope_eBDPKC_updated"
    identifier: "TestAccResourceTemplate_OrgScope_eBDPKC"
    versionLabel: ab
    type: Pipeline
