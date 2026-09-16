@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_leFcli"
+   name: "TestAccResourceTemplate_AccountScope_leFcli_updated"
    identifier: "TestAccResourceTemplate_AccountScope_leFcli"
    versionLabel: ab
    type: Pipeline
