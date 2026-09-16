@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_eEtany"
+   name: "TestAccResourceTemplate_AccountScope_eEtany_updated"
    identifier: "TestAccResourceTemplate_AccountScope_eEtany"
    versionLabel: ab
    type: Pipeline
