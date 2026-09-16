@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_AccountScope_ZH573G"
+   name: "TestAccResourceTemplate_AccountScope_ZH573G_updated"
    identifier: "TestAccResourceTemplate_AccountScope_ZH573G"
    versionLabel: ab
    type: Pipeline
