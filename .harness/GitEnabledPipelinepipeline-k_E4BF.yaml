@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_XmrbwZ
+    name: TestAccResourcePipeline_XmrbwZ_updated
     identifier: TestAccResourcePipeline_XmrbwZ   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_XmrbwZ
