@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_NySeD1
+    name: TestAccResourcePipeline_NySeD1_updated
     identifier: TestAccResourcePipeline_NySeD1   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_NySeD1
