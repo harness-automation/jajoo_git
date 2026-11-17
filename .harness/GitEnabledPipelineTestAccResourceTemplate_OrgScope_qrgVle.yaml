@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplate_OrgScope_qrgVle"
+   name: "TestAccResourceTemplate_OrgScope_qrgVle_updated"
    identifier: "TestAccResourceTemplate_OrgScope_qrgVle"
    versionLabel: ab
    type: Pipeline
