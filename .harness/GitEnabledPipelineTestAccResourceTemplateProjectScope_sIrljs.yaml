@@ -1,5 +1,5 @@
 template:
-   name: "TestAccResourceTemplateProjectScope_sIrljs"
+   name: "TestAccResourceTemplateProjectScope_sIrljs_updated"
    identifier: "TestAccResourceTemplateProjectScope_sIrljs"
    versionLabel: ab
    type: Pipeline
