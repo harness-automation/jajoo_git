@@ -1,5 +1,5 @@
 pipeline:
-    name: TestAccResourcePipeline_qejpEx
+    name: TestAccResourcePipeline_qejpEx_updated
     identifier: TestAccResourcePipeline_qejpEx   
     allowStageExecutions: false
     projectIdentifier: TestAccResourcePipeline_qejpEx
